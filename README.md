@@ -4,6 +4,7 @@ Find the ways to enjoy working!
 ## Table of Contents
 
    * [work_with_grace](#work_with_grace)
+      * [Table of Contents](#table-of-contents)
       * [Apps](#apps)
          * [Basic Apps](#basic-apps)
          * [Markdown Apps Suit](#markdown-apps-suit)
@@ -15,7 +16,9 @@ Find the ways to enjoy working!
          * [Handwriting Recognition](#handwriting-recognition)
          * [Mathematics](#mathematics)
          * [Diagrams and Flowcharts](#diagrams-and-flowcharts)
+         * [Choose colors](#choose-colors)
          * [Others](#others)
+
 
 ## Apps
 
@@ -24,7 +27,7 @@ Find the ways to enjoy working!
 - **Browser**: Chrome (trick -> download deb file and use `sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install` to install for updating lastest version)
 - **Office**: [WPS](https://www.wps.cn/) (for MS WORD-like documents), texlive and tex studio (for LaTex documents), [Typora](https://typora.io/) and [marp](https://yhatt.github.io/marp/) (for markdown documents, cross-platform)
 - **PDF reader**: [Okular](https://okular.kde.org/) (**cross-platform**, use `sudo apt-get install okular` for installation in Linux OS)
-- **Screenshot and recording**: kazam ([how to convert mp4->jpg->gif](https://blog.csdn.net/uniqueyyc/article/details/81210243)), [obs studio](https://obsproject.com/zh-cn) ([install tutorial](https://obsproject.com/wiki/install-instructions#linux))
+- **Screenshot and recording**: [kazam](https://launchpad.net/kazam), [obs studio](https://obsproject.com/zh-cn) ([install tutorial](https://obsproject.com/wiki/install-instructions#linux))
 - **Programming IDE**: CLion and Pycharm (free for students), Jupyter notebook, Sublime Text
 
 - **Image processing**: [inkscape](https://inkscape.org/) (pro vector graphics editor, **cross-platform**), [GIMP](https://www.gimp.org/) (image editor, **cross-platform**)
@@ -74,7 +77,18 @@ Find the ways to enjoy working!
 * [Lucidchart](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [mermaid-live-editor](https://mermaidjs.github.io/mermaid-live-editor) for flowcharts and diagrams
 
+### Choose colors
+There are some tools for guidance in choosing color schemes, which makes your plots more beautiful.
+
+* [ColorBrewer2](http://colorbrewer2.org/)
+* [Adobe Color](https://color.adobe.com/zh/create/image/)
+
 ### Others
+
 * [Ubuntu pastebin](https://paste.ubuntu.com/): This site is intended for use as a short-term exchange of pasted information with others. All submitted data is considered public information.
 * [PasteMe](https://pasteme.cn/): Another Ubuntu pastebin-like website with more friendly features. You can set passwords and whether to self-destruct after reading.
 * [TimeBie](http://www.timebie.com/index.php): Time converters among different time zones.
+
+
+
+
