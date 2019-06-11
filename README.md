@@ -5,6 +5,7 @@ Find the ways to enjoy working!
 
    * [work_with_grace](#work_with_grace)
       * [Table of Contents](#table-of-contents)
+      * [Scripts](#scripts)
       * [Apps](#apps)
          * [Basic Apps](#basic-apps)
          * [Markdown Apps Suit](#markdown-apps-suit)
@@ -19,6 +20,10 @@ Find the ways to enjoy working!
          * [Choose colors](#choose-colors)
          * [Others](#others)
 
+
+## Scripts
+
+- Find more details in [scripts](./scripts).
 
 ## Apps
 
