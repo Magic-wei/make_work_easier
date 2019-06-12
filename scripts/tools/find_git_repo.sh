@@ -39,8 +39,8 @@ main(){
     echo -e "\033[36m current dir is: ${BASE_DIR} \033[0m"
     cd ${BASE_DIR}
     findAllFolder ${BASE_DIR}
-    export git_repo=${GIT_REPO_DIR[*]} # use source ./*.sh to export variable
-    echo "Found Git repositories: ${git_repo[*]}"
+    export GIT_REPO_DIR # use source ./*.sh to export variable
+    echo "Found Git repositories: ${#GIT_REPO_DIR[*]}"
 }
 
 main $1
