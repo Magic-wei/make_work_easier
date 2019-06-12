@@ -1,7 +1,6 @@
 #!/bin/bash
 set -e  # exit on first error
 
-GIT_REPO_DIR[0]=$1
 ITER=0
 
 findAllFolder(){
