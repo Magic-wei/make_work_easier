@@ -5,11 +5,11 @@ Find the ways to enjoy working!
 
 - [scripts](./scripts): some useful scripts used on Ubuntu 16.04 LTS.
 - [config](./config): environment settings that I'm using. 
-- [Useful Apps & Tools & Cheatsheets](#Useful-Apps-&-Tools-&-Cheatsheets): see below.
+- [Useful Apps & Tools & Cheatsheets](#useful-apps--tools--cheatsheets): see below.
 
 ## Useful Apps & Tools & Cheatsheets
 
-   * [Useful Apps & Tools & Cheatsheets](#Useful-Apps-&-Tools-&-Cheatsheets)
+   * [Useful Apps & Tools & Cheatsheets](#useful-apps--tools--cheatsheets)
       * [Apps](#apps)
          * [Basic Apps](#basic-apps)
          * [Markdown Apps Suit](#markdown-apps-suit)
