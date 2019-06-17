@@ -1,6 +1,5 @@
 name: ros
 channels:
-  - oxfordcontrol
   - defaults
 dependencies:
   - ca-certificates=2019.5.15=0

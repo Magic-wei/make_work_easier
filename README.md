@@ -1,11 +1,15 @@
 # work_with_grace
 Find the ways to enjoy working!
 
-## Table of Contents
+## Sub Topics
 
-   * [work_with_grace](#work_with_grace)
-      * [Table of Contents](#table-of-contents)
-      * [Scripts](#scripts)
+- [scripts](./scripts): some useful scripts used on Ubuntu 16.04 LTS.
+- [config](./config): environment settings that I'm using. 
+- [Useful Apps & Tools & Cheatsheets](#Useful-Apps-&-Tools-&-Cheatsheets): see below.
+
+## Useful Apps & Tools & Cheatsheets
+
+   * [Useful Apps & Tools & Cheatsheets](#Useful-Apps-&-Tools-&-Cheatsheets)
       * [Apps](#apps)
          * [Basic Apps](#basic-apps)
          * [Markdown Apps Suit](#markdown-apps-suit)
@@ -19,11 +23,6 @@ Find the ways to enjoy working!
          * [Diagrams and Flowcharts](#diagrams-and-flowcharts)
          * [Choose colors](#choose-colors)
          * [Others](#others)
-
-
-## Scripts
-
-- Find more details in [scripts](./scripts).
 
 ## Apps
 
