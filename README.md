@@ -1,9 +1,9 @@
 # work_with_grace
 Find the ways to enjoy working!
 
-## Sub Topics
+## Topics
 
-- [scripts](./scripts): some useful scripts used on Ubuntu 16.04 LTS.
+- [scripts](./scripts): some useful scripts used on Ubuntu 16.04 LTS, including software installers and tools.
 - [Useful Apps & Tools & Cheatsheets](#useful-apps--tools--cheatsheets): see below.
 
 ## Useful Apps & Tools & Cheatsheets
@@ -29,7 +29,7 @@ Find the ways to enjoy working!
 
 - **Browser**: Chrome (trick -> download deb file and use `sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install` to install for updating lastest version)
 - **Office**: [WPS](https://www.wps.cn/) (for MS WORD-like documents), texlive and tex studio (for LaTex documents), [Typora](https://typora.io/) and [marp](https://yhatt.github.io/marp/) (for markdown documents, cross-platform)
-- **PDF reader**: [Okular](https://okular.kde.org/) (**cross-platform**, use `sudo apt-get install okular` for installation in Linux OS)
+- **PDF reader**: [Okular](https://okular.kde.org/) (**cross-platform**, use `sudo apt-get install okular` for installation on Linux, or follow the [guide](./docs/how_to_install_okular_on_windows.md) for installation on Windows)
 - **Screenshot and recording**: [kazam](https://launchpad.net/kazam), [obs studio](https://obsproject.com/zh-cn) ([install tutorial](https://obsproject.com/wiki/install-instructions#linux))
 - **Programming IDE**: CLion and Pycharm (free for students), Jupyter notebook, Sublime Text
 
