@@ -27,39 +27,33 @@ Find the ways to enjoy working!
 
 ### Basic Apps
 
-- **Browser**: Chrome (trick -> download deb file and use `sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install` to install for updating lastest version)
-
+- **Browser**: 
+- Chrome (trick -> download deb file and use `sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install` to install for updating lastest version)
 - **Office**: 
 
   - [WPS](https://www.wps.cn/) (for MS WORD-like documents, **cross-platform**)
   - [texlive](https://tug.org/texlive/acquire-netinstall.html) and [tex studio](https://texstudio.org/) (for LaTex documents)
   - [Typora](https://typora.io/) and [marp](https://yhatt.github.io/marp/) (for markdown documents, **cross-platform**, see [Markdown Apps Suit](#markdown-apps-suit) for more markdown apps)
-
 - **PDF reader**: 
 
   - [Okular](https://okular.kde.org/) (**cross-platform**, use `sudo apt-get install okular` for installation on Linux, or follow the [guide](./docs/how_to_install_okular_on_windows.md) for installation on Windows)
   - [Adobe Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?ef_id=CjwKCAjw3c_tBRA4EiwAICs8CqfJwkZQVEh0JHEn58n2Z_L3HQC8Y6SiXZ_32RRFHm0oWd_Euk2PQxoCjAAQAvD_BwE:G:s&s_kwcid=AL!3085!3!384071942576!b!!g!!%2Badobe%2Bacrobat%2Breader&gclid=CjwKCAjw3c_tBRA4EiwAICs8CqfJwkZQVEh0JHEn58n2Z_L3HQC8Y6SiXZ_32RRFHm0oWd_Euk2PQxoCjAAQAvD_BwE) (only for Windows or Mac OS)
-
 - **Screenshot and recording**: 
-- [kazam](https://launchpad.net/kazam)
+  - [kazam](https://launchpad.net/kazam)
   - [obs studio](https://obsproject.com/zh-cn) ([install tutorial](https://obsproject.com/wiki/install-instructions#linux))
-  
 - **Programming IDE**: 
 
   - [CLion](https://www.jetbrains.com/clion/) (for C++, **free for student accounts**)
   - [Pycharm](https://www.jetbrains.com/pycharm/) (for Python, **free for student accounts**, you can also use [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) for to manage these tools with ease)
   - Jupyter notebook
   - Sublime Text
-
 - **Image processing**: 
 
   - [inkscape](https://inkscape.org/) (pro vector graphics editor, **cross-platform**)
   - [GIMP](https://www.gimp.org/) (image editor, **cross-platform**)
-
 - **Video Editor**: 
 
   - [OpenShot](https://www.openshot.org/) (open source, **free, cross-platform**)
-
 - **Others**: 
 
   - [KeePassXC](https://keepassxc.org/) (password management, **cross-platform**)
