@@ -28,7 +28,7 @@ Find the ways to enjoy working!
 ### Basic Apps
 
 - **Browser**: 
-- Chrome (trick -> download deb file and use `sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install` to install for updating lastest version)
+  - Chrome (trick -> download deb file and use `sudo dpkg -i google-chrome-stable_current_amd64.deb && sudo apt-get -f install` to install for updating lastest version)
 - **Office**: 
 
   - [WPS](https://www.wps.cn/) (for MS WORD-like documents, **cross-platform**)
