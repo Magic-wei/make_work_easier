@@ -57,7 +57,6 @@ Find the ways to enjoy working!
 - **Others**: 
 
   - [KeePassXC](https://keepassxc.org/) (password management, **cross-platform**)
-
   - [FreeFileSync](https://freefilesync.org/) (file synchronization, **cross-platform**)
 
 ### Markdown Apps Suit
