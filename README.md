@@ -1,5 +1,5 @@
-# work_with_grace
-Find the ways to enjoy working!
+# make_work_easier
+Tools to make work easier and enjoyable!
 
 ## Topics
 
