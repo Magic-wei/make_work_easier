@@ -1,4 +1,4 @@
-# work_with_grace - scripts
+# make_work_easier - scripts
 
 ## Scripts Description
 
@@ -29,4 +29,5 @@
 | [`install_typora.sh`](installers/install_typora.sh) | coming soon | -- | [Typora](https://typora.io/) will give you a seamless experience as both a reader and a writer when using Markdown. | latest |
 
 > **Note**:
+>
 > * Usage: run `./scripts/installers/<*>.sh` in terminal under the root directory of this git repository. 
