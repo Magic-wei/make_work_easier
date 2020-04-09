@@ -14,7 +14,7 @@ Go to the specific topic you like:
   * [Software Tools Recommendation](#software-tools-recommendation)
     * [Math Tools](#math-tools)
     * [Diagrams & Flowcharts](#diagrams--flowcharts)
-    * [Coding](#coding)
+    * [Coding & Documentation](#coding--documentation)
     * [Data Import &amp; Export](#data-import--export)
     * [Figure Plotting](#figure-plotting)
     * [Visualization](#visualization)
@@ -40,15 +40,27 @@ Go to the specific topic you like:
 
 
 
-### Coding
+### Coding & Documentation
 
+#### Markdown
 
+Markdown is one of the most popular markup language which is designed to be a simple, lightweight way to add formatting without prior HTML experience. Github itself use Markdown to format its readme files. You can also use Markdown to format your own wiki files. And it supports HTML syntax too.
 
+- [Typora](https://typora.io/#): There are many Markdown editors you can find online, among them, Typora could be a special one. Typora will give you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Replace them with a real live preview feature to help you concentrate on the content itself.
+- [StackEdit](https://stackedit.io/): StackEdit is an **in-browser** markdown editor which supports different Markdown flavors such as Markdown Extra, GFM and CommonMark. It also supports LaTeX mathematical expressions, UML diagrams, emojis and even musical scores.
+- [MkDocs](https://www.mkdocs.org/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
+- [gollum-wiki-template](https://github.com/Magic-wei/gollum-wiki-template): This is a lightweight gollum wiki system which will be hosted automatically in your local computer when you start Ubuntu after the installation. You can edit the content in markdown and preview the page from the brower directly whenever you want. Build your own wiki system to accumulate your knowledge everyday.
 
+#### Coding IDE
+
+- [CLion](https://www.jetbrains.com/clion/): Clion is probably the best IDE for CMake based c++ projects, which is cross-platform and **free for student accounts** ([Free Educational Licenses Application](https://www.jetbrains.com/community/education/#students)). Clion supports ROS pretty well. You need to launch Clion from the command line to load ROS environment variables.
+- [PyCharm](https://www.jetbrains.com/pycharm/): PyCharm is an cross-platform IDE for Python, **free for student accounts** ([Free Educational Licenses Application](https://www.jetbrains.com/community/education/#students)). It supports `.ipynb` notebook format. Using Anaconda and PyCharm can offer you excellent experiences when developing Python projects. Also PyCharm supports ROS very well and you need to launch PyCharm from the command line to load ROS environment variables.
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/): It is not an IDE but a tool manager for JetBrains apps. With JetBrains Toolbox, you can install and update IDEs automatically to save time and effort maintaining your IDEs.
+- [Sublime Text](https://www.sublimetext.com/): It is a popular text editor for code, markup and prose which is free and cross-platform (Mac, Windows and Linux). If you are working on a project involving multiple programming and markup languages simultaneously, Sublime Text is probably the best choice to read codes and text and make some small changes.
 
 ### Data Import & Export
 
-Typically data can be stored in file formats like csv, txt, yaml, xml, xlsx etc. The very first and last steps are import data from files and export data to files.
+Typically data can be stored in file formats like csv, txt, yaml, xml, xlsx etc. The very first and last steps are import data from files and export data to files. Here are examples for table-like data import and export.
 
 | File Format | C++  | Python | Matlab |
 | ----------- | ---- | ------ | ------ |
@@ -87,7 +99,7 @@ Typically data can be stored in file formats like csv, txt, yaml, xml, xlsx etc.
   * Remove audio from video: `ffmpeg -i input.mkv -vcodec copy -an vout.mkv`
   * Generate animated GIF: `ffmpeg -i input.mkv -ss 11 -to 15 -s 640x320 -r 15 out.gif` with paramter `-s` for frame scaling and `-r` for frame rate resetting.
   * Use FFplay to play a video or audio: `ffplay input.mkv`, press `Q` key to quit when finished.
-* [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details about it.
+* [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details.
 
 
 
