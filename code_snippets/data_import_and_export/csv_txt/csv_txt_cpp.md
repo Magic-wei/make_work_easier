@@ -15,7 +15,7 @@ Here are step-by-step instructions, you can also find an [example cpp file](http
 #### 1. Include the header file as follows
 
 ```c++
-#include <fstream> // fstream, ifstream, ofstream
+#include <fstream> // for fstream, ifstream, ofstream classes
 ```
 
 #### 2. Choose the right class you need
@@ -40,23 +40,22 @@ reader.open("data01.txt");
 writer.open("output.txt");
 
 // for fstream, open a certain file named `file_name` in `open_mode` mode.
-fstream f;
 f.open(file_name, open_mode);
-f.open("data01.txt", ios::in); // read mode
-f.open("./data01.txt", ios::in | ios::nocreate); // read mode, return error when file doesn't exist
-f.open("./output.txt", ios::out); // write mode
+f.open("data01.txt", std::ios::in); // read mode
+f.open("./data01.txt", std::ios::in | std::ios::nocreate); // read mode, return error when file doesn't exist
+f.open("./output.txt", std::ios::out); // write mode
 ```
 
 `open_mode` is an integer-type number, here is a list:
 
-* `ios::in = 0x01`, read, create new file if not exist (`ifstream` default mode).
-* `ios::out = 0x02`, write (overwrite when file exist), create new file if not exist (`ofstream` default mode).
-* `ios::ate = 0x04`, put the pointer at the end of the file when opened. The pointer can be changed, usually used along with `ios::in` and `ios::out`.
-* `ios::app = 0x08`, write (append), create new file if not exist, the pointer is always at the end of the opened file.
-* `ios::trunc = 0x10`, any current content is discarded, assuming a length of zero on opening.
-* `ios::nocreate = 0x20`, return error when file doesn't exist, usually used along with `ios::in` and `ios::app`.
-* `ios::noreplace = 0x40`, return error when file exist, usually used along with `ios::out`.
-* `ios::binary = 0x80`, open file in binary format.
+* `std::ios::in = 0x01`, read, create new file if not exist (`ifstream` default mode).
+* `std::ios::out = 0x02`, write (overwrite when file exist), create new file if not exist (`ofstream` default mode).
+* `std::ios::ate = 0x04`, put the pointer at the end of the file when opened. The pointer can be changed, usually used along with `std::ios::in` and `std::ios::out`.
+* `std::ios::app = 0x08`, write (append), create new file if not exist, the pointer is always at the end of the opened file.
+* `std::ios::trunc = 0x10`, any current content is discarded, assuming a length of zero on opening.
+* `std::ios::nocreate = 0x20`, return error when file doesn't exist, usually used along with `std::ios::in` and `std::ios::app`.
+* `std::ios::noreplace = 0x40`, return error when file exist, usually used along with `std::ios::out`.
+* `std::ios::binary = 0x80`, open file in binary format.
 
 #### 4. Read & Write
 
@@ -78,8 +77,6 @@ char trim_character = ' ';
 writer << 1 << trim_character << "string" << "\n";
 writer << 2 << trim_character << 22.0 << "\n";
 ```
-
-
 
 #### 5. Close the file
 
