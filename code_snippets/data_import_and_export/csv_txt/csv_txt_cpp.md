@@ -1,8 +1,18 @@
-## Data Import & Export - C++ - txt
+## Data Import & Export - C++ - csv/txt
 
-The txt format is similar to csv and the trim policy, which indicates what characters should be ignored at the beginning and the end of every column, often uses '\t' and ' ' as the trim character.
+CSV (Comma-Separated Values) is a simple file format used to store tabular data. Files in the CSV format can be imported to and exported from programs that store data in tables, such as Microsoft Excel or OpenOffice Calc. There are many open-source libraries we can use to read from or write to a CSV file. A CSV file often uses `','` or `' '` as delimiter, and they might come with headers at the first row. The txt files to store data is often similar to csv files.
 
-```txt
+Typical csv/txt file structure looks like:
+
+```csv
+index,x,y
+1,114,32.124
+2,115,20.784
+3,116,10.542
+```
+or with no header and use `' '` as the delimiter:
+
+```csv
 1 114 32.124
 2 115 20.784
 3 116 10.542
@@ -41,9 +51,9 @@ writer.open("output.txt");
 
 // for fstream, open a certain file named `file_name` in `open_mode` mode.
 f.open(file_name, open_mode);
-f.open("data01.txt", std::ios::in); // read mode
-f.open("./data01.txt", std::ios::in | std::ios::nocreate); // read mode, return error when file doesn't exist
-f.open("./output.txt", std::ios::out); // write mode
+f.open("data01.csv", std::ios::in); // read mode
+f.open("path/to/file/data01.csv", std::ios::in | std::ios::nocreate); // read mode, return error when file doesn't exist
+f.open("path/to/file/output.txt", std::ios::out); // write mode
 ```
 
 `open_mode` is an integer-type number, here is a list:

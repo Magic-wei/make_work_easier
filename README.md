@@ -62,11 +62,11 @@ Markdown is one of the most popular markup language which is designed to be a si
 
 Typically data can be stored in file formats like csv, txt, yaml, xml, xlsx etc. The very first and last steps are import data from files and export data to files. Here are examples for table-like data import and export.
 
-| File Format | C++  | Python | Matlab |
-| ----------- | ---- | ------ | ------ |
-| txt         |      |        |        |
-| csv         |      |        |        |
-| xlsx        |      |        |        |
+| File Format | Examples                                                     |
+| ----------- | ------------------------------------------------------------ |
+| csv/txt     | [C++](code_snippets/data_import_and_export/csv_txt/csv_txt_cpp.md) [Python](code_snippets/data_import_and_export/csv_txt/csv_txt_python.md) |
+| rosbag      | [Python](code_snippets/data_import_and_export/rosbag/rosbag_python.md) |
+| xlsx        | [Python](code_snippets/data_import_and_export/xlsx/xlsx_python.md) |
 
 
 
