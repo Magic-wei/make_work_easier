@@ -69,8 +69,8 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 | File Format | Examples                                                     |
 | ----------- | ------------------------------------------------------------ |
 | csv/txt     | [C++](code_snippets/data_import_and_export/csv_txt/csv_txt_cpp.md) [Python](code_snippets/data_import_and_export/csv_txt/csv_txt_python.md) |
-| rosbag      | [Python](code_snippets/data_import_and_export/rosbag/rosbag_python.md) |
-| xlsx        | [Python](code_snippets/data_import_and_export/xlsx/xlsx_python.md) |
+| rosbag      | [Python](code_snippets/data_import_and_export/rosbag/rosbag_python.md) (coming soon) |
+| xlsx        | [Python](code_snippets/data_import_and_export/xlsx/xlsx_python.md) (coming soon) |
 
 
 
@@ -105,19 +105,9 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
   * Use FFplay to play a video or audio: `ffplay input.mkv`, press `Q` key to quit when finished.
 * [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details.
 
-
-
 ## TODO
 
 See [default project board](https://github.com/Magic-wei/make_work_easier/projects/1) for more details.
-
-
-
-## Contributing
-
-
-
-
 
 ## License
 
