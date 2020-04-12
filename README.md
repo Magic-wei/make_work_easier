@@ -1,7 +1,7 @@
 # make_work_easier
-[Old version](https://github.com/Magic-wei/make_work_easier/tree/old)
+This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs in the following workflow when we're working on robotics research projects. If you are interested in more useful software tools, see [this list](./software_list.md). If you are searching for some useful scripts in Ubuntu, go to another repo [useful_scripts](https://github.com/Magic-wei/useful_scripts).
 
-This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs, which has been refactored to focus on speeding up the following work flow when we're working on robotics research projects. Typically we have `Software Tools Recommendation` which is a list of powerful and useful tools for each topic (rectangle in the work flow), and `Code Snippets` which is a gallery for useful functions in Shell, Python, Matlab, C++ etc. If you have no idea about one of these specific topics, hope this repo could be the first place you should take a look at.
+**The remainder of this README is all about the research workflow.** For each topic as shown as rectangle in the workflow, you can find some useful tools that I've investigated and I am using most of them in my daily work. You can also find the `Code Snippets` folder in this repo which is a gallery for useful functions in Python, Matlab, C++ etc. If you have no idea about one of these specific topics, hope this repo could be the first place you should take a look at.
 
 <img src="./images/research_workflow.svg" width="90%" alt="research work flow">
 
@@ -12,9 +12,9 @@ Go to the specific topic you like:
 * [make_work_easier](#make_work_easier)
   * [Quick Start](#quick-start)
   * [Software Tools Recommendation](#software-tools-recommendation)
-    * [Math Tools](#math-tools)
-    * [Diagrams & Flowcharts](#diagrams--flowcharts)
     * [Coding & Documentation](#coding--documentation)
+    * [Diagrams & Flowcharts](#diagrams--flowcharts)
+    * [Math Tools](#math-tools)
     * [Data Import &amp; Export](#data-import--export)
     * [Figure Plotting](#figure-plotting)
     * [Visualization](#visualization)
@@ -24,22 +24,6 @@ Go to the specific topic you like:
 
 ## Software Tools Recommendation
 
-
-
-### Math Tools
-
-
-
-<img src="./images/math tools.svg" width="90%" alt="math_tools">
-
-### Diagrams & Flowcharts
-
-* [**draw.io**](https://www.draw.io/): It is a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work.
-* [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
-* [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor) for flowcharts and diagrams in markdown
-
-
-
 ### Coding & Documentation
 
 #### Markdown
@@ -48,6 +32,7 @@ Markdown is one of the most popular markup language which is designed to be a si
 
 - [**Typora**](https://typora.io/#): There are many Markdown editors you can find online, among them, Typora could be a special one. Typora will give you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Replace them with a real live preview feature to help you concentrate on the content itself.
 - [**StackEdit**](https://stackedit.io/): StackEdit is an in-browser markdown editor which supports different Markdown flavors such as Markdown Extra, GFM and CommonMark. It also supports LaTeX mathematical expressions, UML diagrams, emojis and even musical scores.
+- [**Marp**](https://yhatt.github.io/marp/): Marp is a cross-platform markdown presentation writer which supports rendering emoji, math, and background image. You can write your slides in markdown and export as pdf files, which is quite convenient especially when you have already had Markdown files about the topics to share. See more features on the homepage.
 - [**MkDocs**](https://www.mkdocs.org/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 - [**gollum-wiki-template**](https://github.com/Magic-wei/gollum-wiki-template): This is a lightweight gollum wiki system which will be hosted automatically in your local computer when you start Ubuntu after the installation. You can edit the content in markdown and preview the page from the brower directly whenever you want. Build your own wiki system to accumulate your knowledge everyday. You can also find the latest version in [yuzhangbit/wiki_barebone](https://github.com/yuzhangbit/wiki_barebone).
 
@@ -57,6 +42,25 @@ Markdown is one of the most popular markup language which is designed to be a si
 - [**PyCharm**](https://www.jetbrains.com/pycharm/): PyCharm is an cross-platform IDE for Python, **free for student accounts** ([Free Educational Licenses Application](https://www.jetbrains.com/community/education/#students)). It supports `.ipynb` notebook format. Using Anaconda and PyCharm can offer you excellent experiences when developing Python projects. Also PyCharm supports ROS very well and you need to launch PyCharm from the command line to load ROS environment variables.
 - [**JetBrains Toolbox**](https://www.jetbrains.com/toolbox-app/): It is not an IDE but a tool manager for JetBrains apps. With JetBrains Toolbox, you can install and update IDEs automatically to save time and effort maintaining your IDEs.
 - [**Sublime Text**](https://www.sublimetext.com/): It is a popular text editor for code, markup and prose which is free and cross-platform (Mac, Windows and Linux). If you are working on a project involving multiple programming and markup languages simultaneously, Sublime Text is probably the best choice to read codes and text and make some small changes. Use [**Sublime Merge**](https://www.sublimemerge.com/) as a Git client along with Sublime Text.
+
+### Diagrams & Flowcharts
+
+* [**draw.io**](https://www.draw.io/): It is a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work.
+* [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
+* [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor) for flowcharts and diagrams in markdown
+
+### Math Tools
+
+* [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
+* [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTex add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTex equations into your PowerPoint presentation. Free, and open source.
+* [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
+* [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
+
+
+
+<img src="./images/math tools.svg" width="90%" alt="math_tools">
+
+
 
 ### Data Import & Export
 
@@ -106,3 +110,15 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 ## TODO
 
 See [default project board](https://github.com/Magic-wei/make_work_easier/projects/1) for more details.
+
+
+
+## Contributing
+
+
+
+
+
+## License
+
+This repository licensed under the [MIT License](./LICENSE)
