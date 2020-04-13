@@ -27,7 +27,7 @@
 - [**StackEdit**](https://stackedit.io/): in-browser markdown editor, cross-platform, free.
 - [**Marp**](https://yhatt.github.io/marp/): Markdown-based slides editor, cross-platform, free.
 - [**MkDocs**](https://www.mkdocs.org/): a fast, simple and downright gorgeous static site generator that's geared towards building project documentation, cross-platform, free.
-- [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for Markdown files including GitHub README.md.
+- [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for GitHub README.md, and for any Markdown file.
 - [**gollum-wiki-template (Github)**](https://github.com/Magic-wei/gollum-wiki-template): for building your local wiki system, see the latest version in [yuzhangbit/wiki_barebone](https://github.com/yuzhangbit/wiki_barebone).
 
 #### Coding IDE
