@@ -18,9 +18,9 @@ or with no header and use `' '` as the delimiter:
 3 116 10.542
 ```
 
-In C++, we can use three classes, `fstream`, `ifstream` or `ostream`, to  read from or write to a txt file. See [cppreference](https://en.cppreference.com/w/cpp/header/fstream) or [cplusplus](http://www.cplusplus.com/reference/fstream/fstream/) for more details.
+In C++, for files with no header, we can use three classes, `fstream`, `ifstream` or `ostream`, to easily read from or write to a txt file. See [cppreference](https://en.cppreference.com/w/cpp/header/fstream) or [cplusplus](http://www.cplusplus.com/reference/fstream/fstream/) for more details. **For files with header, there is no difference to writing to files with no header, but we better use existed tools to achieve reading, such as [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) which is a small, easy-to-use and fast header-only library for reading CSV files.**
 
-Here are step-by-step instructions, you can also find an [example cpp file](https://github.com/Magic-wei/programming_practices/blob/master/practice_cpp/func/src/file_ReadWrite_main.cpp).
+Here are step-by-step instructions for files with no header, you can also find an [example cpp file](https://github.com/Magic-wei/programming_practices/blob/master/practice_cpp/func/src/file_ReadWrite_main.cpp).
 
 #### 1. Include the header file as follows
 
