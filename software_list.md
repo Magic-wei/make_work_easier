@@ -24,10 +24,10 @@
 
 - [**Typora**](https://typora.io/#): locally Markdown editor, cross-platform, free.
 - [**StackEdit**](https://stackedit.io/): in-browser markdown editor, cross-platform, free.
-
 - [**Marp**](https://yhatt.github.io/marp/): Markdown-based slides editor, cross-platform, free.
 - [**MkDocs**](https://www.mkdocs.org/): a fast, simple and downright gorgeous static site generator that's geared towards building project documentation, cross-platform, free.
-- [**gollum-wiki-template (Github)**](https://github.com/Magic-wei/gollum-wiki-template): used for building your local wiki system, see the latest version in [yuzhangbit/wiki_barebone](https://github.com/yuzhangbit/wiki_barebone).
+- [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for Markdown files including GitHub README.md.
+- [**gollum-wiki-template (Github)**](https://github.com/Magic-wei/gollum-wiki-template): for building your local wiki system, see the latest version in [yuzhangbit/wiki_barebone](https://github.com/yuzhangbit/wiki_barebone).
 
 #### Coding IDE
 
@@ -38,9 +38,9 @@
 
 #### Office Tools
 
-- [**Microsoft To Do**](https://todo.microsoft.com/): for task management, Cross-platform, free
+- [**Microsoft To Do**](https://todo.microsoft.com/): for task management, Cross-platform (web-based, Windows and mobile apps), free
 - [**WPS**](https://www.wps.cn/): for MS WORD-like documents, cross-platform (support Linux), free
-- [**Tex Live**](https://tug.org/texlive/acquire-netinstall.html) and [**Texstudio**](https://texstudio.org/) for locally LaTex documents writing, cross-platform (Windows, Linux, MacOS), free.
+- [**Tex Live**](https://tug.org/texlive/acquire-netinstall.html) and [**Texstudio**](https://texstudio.org/) for local LaTex documents writing, cross-platform (Windows, Linux, MacOS), free.
 
 #### Mathematics Tools
 
