@@ -7,6 +7,7 @@
   * [Coding &amp; Documentation](#coding--documentation)
     * [Markdown](#markdown)
     * [Coding IDE](#coding-ide)
+    * [Coding](#coding)
     * [Office Tools](#office-tools)
     * [Mathematics Tools](#mathematics-tools)
     * [PDF Reader](#pdf-reader)
