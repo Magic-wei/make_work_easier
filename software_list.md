@@ -36,6 +36,10 @@
 - [**JetBrains Toolbox**](https://www.jetbrains.com/toolbox-app/): Tool manager for JetBrains apps. With JetBrains Toolbox, you can install and update IDEs automatically to save time and effort maintaining your IDEs.
 - [**Sublime Text**](https://www.sublimetext.com/): Text editor for code, markup and prose, cross-platform (Mac, Windows and Linux) and free. Use [**Sublime Merge**](https://www.sublimemerge.com/) as a Git client along with Sublime Text.
 
+#### Coding
+
+- [**PySimpleGUI**](https://pysimplegui.readthedocs.io/en/latest/): a young GUI toolkit launched in 2018 which transforms tkinter, Qt, Remi, WxPython into portable people-friendly Pythonic interfaces. See [homepage](https://pysimplegui.readthedocs.io/en/latest/cookbook/) and [demo programs](https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms) for more details.
+
 #### Office Tools
 
 - [**Microsoft To Do**](https://todo.microsoft.com/): for task management, Cross-platform (web-based, Windows and mobile apps), free
