@@ -20,6 +20,7 @@ Go to the specific topic you like:
     * [Visualization](#visualization)
     * [Screenshot & Video Recording](#screenshot--video-recording)
     * [Video Editing](#video-editing)
+    * [Academic Writing](#academic-writing)
   * [TODO](#todo)
 
 ## Software Tools Recommendation
@@ -108,6 +109,22 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
   * Generate animated GIF: `ffmpeg -i input.mkv -ss 11 -to 15 -s 640x320 -r 15 out.gif` with paramter `-s` for frame scaling and `-r` for frame rate resetting.
   * Use FFplay to play a video or audio: `ffplay input.mkv`, press `Q` key to quit when finished.
 * [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details.
+
+### Academic Writing
+
+* [**Linggle 10^12**](https://linggle.com/): This is a website where you can get advices on academic writing in English. This tool allows you to find recurring phrases following the words you type, check whether a word is needed in a phrase, decide on alternative phrases or find collocations.
+* [**ColloCaid**](http://www.collocaid.uk/): this **in-browser tool** project aims to develop a text-editing tool to help writers choose words that go well together (i.e. collocations) as needed. **Mostly you can just write on this site, or copy and paste your words to the editor and get some advices.** Now it's **free** with a sign-up. But 
+* [**Academic Phrasebank**](http://www.phrasebank.manchester.ac.uk/): This website is a general resource for academic writers. It aims to provide you with examples of some of the phraseological 'nuts and bolts' of writing organized according to the main sections of a research paper or dissertation. You can also find links to an enhanced and expanded version in PDF or Kindle format on this website.
+* [**musi.ai**](https://musi.ai/): musi.ai is the world’s first ever English grammar and fluency editor powered by artificial intelligence, created by a group of scientists from UPenn, CMU, UNSW and UC Berkeley. **You can use it as a grammar checker before any further changes to your writing.** Better experience compared to a free [Grammarly](https://www.grammarly.com/) account. **However, you need to be careful about the changes it makes, such tool is just a machine anyway and sometimes it might misunderstand what you want to say.**
+* [**Turnitin**](https://www.turnitin.com/): After you finish your manuscript, it is time to check plagiarism. Turnitin is the most widely used plagiarism checker around the world.
+
+<img src="./images/Linggle.png" width="90%" alt="Linggle">
+
+<img src="./images/Collocaid.png" width="90%" alt="Collocaid">
+
+<img src="./images/musi.ai.png" width="90%" alt="musi.ai">
+
+
 
 ## TODO
 
