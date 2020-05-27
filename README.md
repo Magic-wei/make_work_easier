@@ -24,6 +24,7 @@ Go to the specific topic you like:
   <a href="#video-editing">Video Editing</a> |
   <a href="#academic-writing">Academic Writing</a>
 </p>
+
 For More information:
 
 <p align="center">
@@ -32,6 +33,7 @@ For More information:
   <a href="#todo">TODO</a> •
   <a href="#license">License</a>
 </p>
+
 ## Coding & Documentation
 
 ### Markdown
