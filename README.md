@@ -1,33 +1,40 @@
 # make_work_easier
-This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs in the following workflow when we're working on robotics research projects. If you are interested in more useful software tools, see [this list](./software_list.md). If you are searching for some useful scripts in Ubuntu, go to another repo [useful_scripts](https://github.com/Magic-wei/useful_scripts).
+This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs in the following workflow when we're working on robotics research projects. 
 
-**The remainder of this README is all about the research workflow.** For each topic as shown as rectangle in the workflow, you can find some useful tools that I've investigated and I am using most of them in my daily work. You can also find the `Code Snippets` folder in this repo which is a gallery for useful functions in Python, Matlab, C++ etc. If you have no idea about one of these specific topics, hope this repo could be the first place you should take a look at.
+* If you are interested in more useful software tools, see [this longer list](./software_list.md). 
+* If you want some useful scripts in Ubuntu, see another repo [useful_scripts](https://github.com/Magic-wei/useful_scripts).
+* **The remainder of this README is all about the research workflow.**
 
 <img src="./images/research_workflow.svg" width="90%" alt="research work flow">
+
+For each topic shown as rectangle in the workflow, you can find some useful tools that I've investigated, and most of them are still under use in my daily work. You can also find the `Code Snippets` folder in this repo which is a gallery for useful functions in Python, Matlab, C++ etc. If you have no idea about one of these specific topics, hope this repo could be the first place you should take a look at.
 
 ## Quick Start
 
 Go to the specific topic you like:
 
-* [make_work_easier](#make_work_easier)
-  * [Quick Start](#quick-start)
-  * [Software Tools Recommendation](#software-tools-recommendation)
-    * [Coding & Documentation](#coding--documentation)
-    * [Diagrams & Flowcharts](#diagrams--flowcharts)
-    * [Math Tools](#math-tools)
-    * [Data Import &amp; Export](#data-import--export)
-    * [Figure Plotting](#figure-plotting)
-    * [Visualization](#visualization)
-    * [Screenshot & Video Recording](#screenshot--video-recording)
-    * [Video Editing](#video-editing)
-    * [Academic Writing](#academic-writing)
-  * [TODO](#todo)
+<p align="center">
+  <a href="#coding--documentation">Coding & Documentation</a> |
+  <a href="#diagrams--flowcharts">Diagrams & Flowcharts</a> |
+  <a href="#math-tools">Math Tools</a> |
+  <a href="#data-import--export">Data Import &amp; Export</a> |
+  <a href="#figure-plotting">Figure Plotting</a> |
+  <a href="#visualization">Visualization</a> |
+  <a href="#screenshot--video-recording">Screenshot & Video Recording</a> |
+  <a href="#video-editing">Video Editing</a> |
+  <a href="#academic-writing">Academic Writing</a>
+</p>
+For More information:
 
-## Software Tools Recommendation
+<p align="center">
+  <a href="./software_list.md">Longer Software  List</a> •
+  <a href="https://github.com/Magic-wei/useful_scripts">Useful Scripts</a> •
+  <a href="#todo">TODO</a> •
+  <a href="#license">License</a>
+</p>
+## Coding & Documentation
 
-### Coding & Documentation
-
-#### Markdown
+### Markdown
 
 Markdown is one of the most popular markup language which is designed to be a simple, lightweight way to add formatting without prior HTML experience. Github itself use Markdown to format its readme files. You can also use Markdown to format your own wiki files. And it supports HTML syntax too.
 
@@ -38,7 +45,7 @@ Markdown is one of the most popular markup language which is designed to be a si
 - [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for GitHub README.md, and for any Markdown file.
 - [**gollum-wiki-template**](https://github.com/Magic-wei/gollum-wiki-template): This is a lightweight gollum wiki system which will be hosted automatically in your local computer when you start Ubuntu after the installation. You can edit the content in markdown and preview the page from the brower directly whenever you want. Build your own wiki system to accumulate your knowledge everyday. You can also find the latest version in [yuzhangbit/wiki_barebone](https://github.com/yuzhangbit/wiki_barebone).
 
-#### Coding IDE
+### Coding IDE
 
 - [**CLion**](https://www.jetbrains.com/clion/): Clion is probably the best IDE for CMake based c++ projects, which is cross-platform and **free for student accounts** ([Free Educational Licenses Application](https://www.jetbrains.com/community/education/#students)). Clion supports ROS pretty well. You need to launch Clion from the command line to load ROS environment variables.
 - [**PyCharm**](https://www.jetbrains.com/pycharm/): PyCharm is a cross-platform IDE for Python, **free for student accounts** ([Free Educational Licenses Application](https://www.jetbrains.com/community/education/#students)). It supports `.ipynb` notebook format. Using Anaconda and PyCharm can offer you excellent experiences when developing Python projects. Also PyCharm supports ROS very well and you need to launch PyCharm from the command line to load ROS environment variables.
@@ -46,26 +53,22 @@ Markdown is one of the most popular markup language which is designed to be a si
 - [**Sublime Text**](https://www.sublimetext.com/): It is a popular text editor for code, markup and prose which is free and cross-platform (Mac, Windows and Linux). If you are working on a project involving multiple programming and markup languages simultaneously, Sublime Text is probably the best choice to read codes and text and make some small changes. Use [**Sublime Merge**](https://www.sublimemerge.com/) as a Git client along with Sublime Text.
 - [**MATLAB Online**](https://www.mathworks.com/products/matlab-online.html): Use MATLAB through your web browser with the latest version, get 5 GB cloud storage in Matlab Drive online, work with your MATLAB files from anywhere, and share them with others. MATLAB Online is available with select licenses, many universities provide campus-wide licenses for their students, double check [here](https://www.mathworks.com/academia/tah-support-program/eligibility.html) with the official name of your university and your official university email address, you will receive an email that tells you if your university has an active MATLAB campus-wide license. 
 
-### Diagrams & Flowcharts
+## Diagrams & Flowcharts
 
 * [**draw.io**](https://www.draw.io/): It is a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
 * [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor) for flowcharts and diagrams in markdown
 
-### Math Tools
+## Math Tools
 
 * [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
 * [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTex add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTex equations into your PowerPoint presentation. Free, and open source.
 * [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
 * [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
 
-
-
 <img src="./images/math tools.svg" width="90%" alt="math_tools">
 
-
-
-### Data Import & Export
+## Data Import & Export
 
 Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. The very first and last steps are importing data from files and exporting data to files. Here are examples for tabular data import and export.
 
@@ -75,19 +78,11 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 | rosbag      | [Python](code_snippets/data_import_and_export/rosbag/rosbag_python.md) (coming soon) |
 | xlsx        | [Python](code_snippets/data_import_and_export/xlsx/xlsx_python.md) (coming soon) |
 
+## Figure Plotting
 
+## Visualization
 
-### Figure Plotting
-
-
-
-
-
-### Visualization
-
-
-
-### Screenshot & Video Recording
+## Screenshot & Video Recording
 
 * [**Kazam**](https://launchpad.net/kazam) is a lightweight screen recorder software in Ubuntu. 
   * Known issue is, mp4 file generated by Kazam can't be opened correctly in Windows and also on some apps like Slack. For this case, you can use transcoder like [HandBrake](https://handbrake.fr/) which is a cross-platform to convert it to selected format.
@@ -96,7 +91,7 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 * [**ScreenToGif**](https://www.screentogif.com/): Screen, webcam and sketchboard recorder with an integrated editor. Free and open source, Over 18 different languages, but **only for Windows**. You can export as Gif, Video or save as a project to edit later.
 * [**Snipaste**](https://www.snipaste.com/): Snip + Paste = Snipaste, which is a simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen. **It's not fair to consider it as only a snipping tool, actually the most powerful feature of it is to pin multiple screenshots onto the screen in groups!** You can convert text or color info in the clipboard into a floating image window. Such windows can be zoomed, rotated, flipped, made translucent, and even made click-through! If you are a programmer, a designer or whoever works much time before the computer, you will be surprised how it can help you get your work done more efficiently! **It has the free version for Windows and Mac OS**, and also a pro version as in-app purchase in Microsoft Store. Even the free version is powerful enough for everyday use. **Linux version is under developing.**
 
-### Video Editing
+## Video Editing
 
 * [**FFmpeg**](https://www.ffmpeg.org/) is a complete, cross-platform solution to record, convert and stream audio and video. Typically you can use it in command lines or GUI, and many popular video editors are developed based on FFmpeg. Some usage examples are as follows:
   * Transcoding: `ffmpeg -i input.mp4 output.avi`
@@ -110,7 +105,7 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
   * Use FFplay to play a video or audio: `ffplay input.mkv`, press `Q` key to quit when finished.
 * [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details.
 
-### Academic Writing
+## Academic Writing
 
 * [**Linggle 10^12**](https://linggle.com/): This is a website where you can get advices on academic writing in English. This tool allows you to find recurring phrases following the words you type, check whether a word is needed in a phrase, decide on alternative phrases or find collocations.
 * [**ColloCaid**](http://www.collocaid.uk/): this **in-browser tool** project aims to develop a text-editing tool to help writers choose words that go well together (i.e. collocations) as needed. **Mostly you can just write on this site, or copy and paste your words to the editor and get some advices.** Now it's **free** with a sign-up. But 

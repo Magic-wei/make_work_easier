@@ -12,6 +12,7 @@
     * [Mathematics Tools](#mathematics-tools)
     * [PDF Reader](#pdf-reader)
   * [Diagrams and Flowcharts](#diagrams-and-flowcharts)
+  * [Academic Writing](#academic-writing)
   * [Screenshot, Video Recording and Editing](#screenshot,-video-recording-and-editing)
     * [Recording](#recording)
     * [Editing](#editing)
@@ -66,6 +67,14 @@
 * [**draw.io**](https://www.draw.io/): a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work.
 * [**Lucidchart**](https://www.lucidchart.com/): another professional in-browser flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor) for flowcharts and diagrams in markdown
+
+## Academic Writing
+
+* [**Linggle 10^12**](https://linggle.com/): This is a website where you can get advices on academic writing in English. This tool allows you to find recurring phrases following the words you type, check whether a word is needed in a phrase, decide on alternative phrases or find collocations.
+* [**ColloCaid**](http://www.collocaid.uk/): this **in-browser tool** project aims to develop a text-editing tool to help writers choose words that go well together (i.e. collocations) as needed. **Mostly you can just write on this site, or copy and paste your words to the editor and get some advices.** Now it's **free** with a sign-up. But 
+* [**Academic Phrasebank**](http://www.phrasebank.manchester.ac.uk/): This website is a general resource for academic writers. It aims to provide you with examples of some of the phraseological 'nuts and bolts' of writing organized according to the main sections of a research paper or dissertation. You can also find links to an enhanced and expanded version in PDF or Kindle format on this website.
+* [**musi.ai**](https://musi.ai/): musi.ai is the world’s first ever English grammar and fluency editor powered by artificial intelligence, created by a group of scientists from UPenn, CMU, UNSW and UC Berkeley. **You can use it as a grammar checker before any further changes to your writing.** Better experience compared to a free [Grammarly](https://www.grammarly.com/) account. **However, you need to be careful about the changes it makes, such tool is just a machine anyway and sometimes it might misunderstand what you want to say.**
+* [**Turnitin**](https://www.turnitin.com/): After you finish your manuscript, it is time to check plagiarism. Turnitin is the most widely used plagiarism checker around the world.
 
 ## Screenshot, Video Recording and Editing
 
