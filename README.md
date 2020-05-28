@@ -1,5 +1,5 @@
 # make_work_easier
-This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs in the following workflow when we're working on robotics research projects. 
+This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs in the following workflow when we're working on robotics research projects. :point_right: [Quick Start](#quick-start)
 
 * If you are interested in more useful software tools, see [this longer list](./software_list.md). 
 * If you want some useful scripts in Ubuntu, see another repo [useful_scripts](https://github.com/Magic-wei/useful_scripts).
@@ -11,9 +11,8 @@ For each topic shown as rectangle in the workflow, you can find some useful tool
 
 ## Quick Start
 
-Go to the specific topic you like:
-
 <p align="center">
+  <b>--- Topic navigation ---</b><br>
   <a href="#coding--documentation">Coding & Documentation</a> |
   <a href="#diagrams--flowcharts">Diagrams & Flowcharts</a> |
   <a href="#math-tools">Math Tools</a> |
@@ -25,14 +24,14 @@ Go to the specific topic you like:
   <a href="#academic-writing">Academic Writing</a>
 </p>
 
-For More information:
-
 <p align="center">
+  <b>--- For more information ---</b><br>
   <a href="./software_list.md">Longer Software  List</a> •
   <a href="https://github.com/Magic-wei/useful_scripts">Useful Scripts</a> •
   <a href="#todo">TODO</a> •
   <a href="#license">License</a>
 </p>
+
 
 ## Coding & Documentation
 
