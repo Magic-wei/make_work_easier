@@ -79,10 +79,6 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 | rosbag      | [Python](code_snippets/data_import_and_export/rosbag/rosbag_python.md) (coming soon) |
 | xlsx        | [Python](code_snippets/data_import_and_export/xlsx/xlsx_python.md) (coming soon) |
 
-## Figure Plotting
-
-## Visualization
-
 ## Screenshot & Video Recording
 
 ### Video Recording
