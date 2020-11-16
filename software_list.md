@@ -12,6 +12,7 @@
     * [Mathematics Tools](#mathematics-tools)
     * [PDF Reader](#pdf-reader)
   * [Diagrams and Flowcharts](#diagrams-and-flowcharts)
+  * [Tables](#tables)
   * [Academic Writing](#academic-writing)
   * [Screenshot, Video Recording and Editing](#screenshot,-video-recording-and-editing)
     * [Recording](#recording)
@@ -51,10 +52,13 @@
 
 #### Mathematics Tools
 
-* [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
 * [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTex add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTex equations into your PowerPoint presentation. Free, and open source.
 * [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
 * [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
+* [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
+* [**SymPy**](https://www.sympy.org/en/index.html): It is a Python library for symbolic mathematics. Use the website [SymPy Live](https://live.sympy.org/) to do symbolic mathematics online. And [SymPy Gamma](https://www.sympygamma.com/) is a SymPy version of WolframAlpha.
+* [**Matlab Symbolic Math Toolbox**](https://www.mathworks.com/products/symbolic.html): It provides functions for solving, plotting, and manipulating symbolic math equations in Matlab.
+* [**GENO**](http://www.geno-project.org/): A site that can automatically generate optimization solvers in Python. Enter your optimization problem in an easy-to-read modeling language on the website and get the Python codes that can solve the class of optimization problems.
 
 #### PDF Reader
 
@@ -67,6 +71,11 @@
 * [**draw.io**](https://www.draw.io/): a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work.
 * [**Lucidchart**](https://www.lucidchart.com/): another professional in-browser flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor) for flowcharts and diagrams in markdown
+
+## Tables
+
+* [**Tables Generator**](https://www.tablesgenerator.com/): It is a website-based tool for fast LaTeX, HTML or Markdown tables generation. You can simply copy/paste table data from Excel, a text document, a Markdown code or even a website, or import CSV file or LaTeX code directly. Easy layout configurations.
+* [**OpenPyXL**](https://openpyxl.readthedocs.io/en/stable/): It is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. Having investigated XlsxWriter, xlrd/xlwt, xlwings and OpenPyXL, and OpenPyXL is the best Python package to work with Excel files from my experience. But ff you are merely working on structured data analysis and have no need of advanced modification on worksheets and cells , try [Pandas](https://pandas.pydata.org/) first.
 
 ## Academic Writing
 
@@ -112,6 +121,9 @@ There are some tools for guidance in choosing color schemes, which makes your pl
 * [**TimeBie**](http://www.timebie.com/index.php): In-browser time converters among different time zones.
 * [**KeePassXC**](https://keepassxc.org/): a password manager that can store your passwords safely and auto-type them into your everyday websites and applications, cross-platform (Linux, Windows, MacOS), free, open source.
 * [**FreeFileSync**](https://freefilesync.org/): a folder comparison and synchronization software that creates and manages backup copies of all your important files., cross-platform (Linux, Windows, MacOS), free, open source.
+* [**QTTabBar**](http://qttabbar.wikidot.com/): Extends Explorer by tabs and extra folder views for Windows. Free. See [official website (Chinese)](https://indiff.github.io/qttabbar/) for latest update.
+* [**WizTree**](https://wiztreefree.com/): The FASTEST Disk Space Analyser for Windows. Free.
+* [**Everything**](https://www.voidtools.com/): a desktop search utility for Windows that can rapidly find files and folders by name. Free.
 
 
 
