@@ -98,6 +98,21 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 | rosbag      | [Python](code_snippets/data_import_and_export/rosbag/rosbag_python.md) (coming soon) |
 | xlsx        | [Python](code_snippets/data_import_and_export/xlsx/xlsx_python.md) (coming soon) |
 
+## Figure Plotting
+
+Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files.
+
+- [easy_plot](https://github.com/Magic-wei/easy_plot): This repository gives examples of common plotting configurations in Matlab and Python.
+- [ColorBrewer2](https://colorbrewer2.org/): This is a great tool for choosing color scheme we use in figures, which makes your plots more beautiful. For an intuitive feeling, see this [comparison](https://github.com/Magic-wei/easy_plot#how-to-choose-color) between figure using built-in color and one using color chosen from ColorBrewer2.
+
+## Visualization
+
+Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files. We focus on ROS-related tools since ROS is a popular option for robotics research.
+
+- [ros_viz_tools](https://github.com/Magic-wei/ros_viz_tools): This is a visualization tool that I developed for easier [Rviz Marker](http://wiki.ros.org/rviz/DisplayTypes/Marker) plotting, which provides several predefined functions to clean up our codes when using Rviz Marker. See examples in README for a quick start.
+
+
+
 ## Screenshot & Video Recording
 
 ### Video Recording
