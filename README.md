@@ -73,6 +73,7 @@ Markdown is one of the most popular markup language which is designed to be a si
 
 * [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTex add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTex equations into your PowerPoint presentation. Free, and open source.
 * [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
+* [**Online LaTeX Equation Editor (CodeCogs)**](https://www.codecogs.com/latex/eqneditor.php): This GUI-based website allows you to create your LaTeX equations from scratch even without any knowledge of LaTeX expressions. LaTeX equations can be exported as multiple image formats like SVG, PNG and PDF.
 * [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
 
 ### Derivative Tools
