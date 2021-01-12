@@ -47,7 +47,7 @@ Markdown is one of the most popular markup language which is designed to be a si
 - [**MkDocs**](https://www.mkdocs.org/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file. See [yuzhangbit/docs_template](https://github.com/yuzhangbit/docs_template) for a nice template.
 - [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for GitHub README.md, and for any Markdown file.
 - [**yuzhangbit/wiki_barebone**](https://github.com/yuzhangbit/wiki_barebone): This is a lightweight gollum wiki system which will be hosted automatically in your local computer when you start Ubuntu after the installation. You can edit the content in markdown and preview the page from the brower directly whenever you want. Build your own wiki system to accumulate your knowledge everyday.
-- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. **Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview. Many core plugins can be used to customize your own note-taking toolkit. And what you get is really a folder of Markdown files, which allow you to sync your notes anywhere and reuse them seamlessly.
+- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview. Many core plugins can be used to customize your own note-taking toolkit. And what you get is really a folder of Markdown files, which allow you to sync your notes anywhere and reuse them seamlessly.
 
 ### Coding IDE
 
@@ -103,16 +103,14 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 
 Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files.
 
-- [easy_plot](https://github.com/Magic-wei/easy_plot): This repository gives examples of common plotting configurations in Matlab and Python.
-- [ColorBrewer2](https://colorbrewer2.org/): This is a great tool for choosing color scheme we use in figures, which makes your plots more beautiful. For an intuitive feeling, see this [comparison](https://github.com/Magic-wei/easy_plot#how-to-choose-color) between figure using built-in color and one using color chosen from ColorBrewer2.
+- [**easy_plot**](https://github.com/Magic-wei/easy_plot): This repository gives examples of common plotting configurations in Matlab and Python.
+- [**ColorBrewer2**](https://colorbrewer2.org/): This is a great tool for choosing color scheme we use in figures, which makes your plots more beautiful. For an intuitive feeling, see this [comparison](https://github.com/Magic-wei/easy_plot#how-to-choose-color) between figure using built-in color and one using color chosen from ColorBrewer2.
 
 ## Visualization
 
 Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files. We focus on ROS-related tools since ROS is a popular option for robotics research.
 
-- [ros_viz_tools](https://github.com/Magic-wei/ros_viz_tools): This is a visualization tool that I developed for easier [Rviz Marker](http://wiki.ros.org/rviz/DisplayTypes/Marker) plotting, which provides several predefined functions to clean up our codes when using Rviz Marker. See examples in README for a quick start.
-
-
+- [**ros_viz_tools**](https://github.com/Magic-wei/ros_viz_tools): This is a visualization tool that I developed for easier [Rviz Marker](http://wiki.ros.org/rviz/DisplayTypes/Marker) plotting, which provides several predefined functions to clean up our codes when using Rviz Marker. See examples in README for a quick start.
 
 ## Screenshot & Video Recording
 
@@ -127,6 +125,7 @@ Generally, visualization includes figure plotting, whereas visualization in this
 
 * [**ScreenToGif**](https://www.screentogif.com/): Screen, webcam and sketchboard recorder with an integrated editor. Free and open source, Over 18 different languages, but **only for Windows**. You can export as Gif, Video or save as a project to edit later.
 * [**Peek**](https://github.com/phw/peek): a simple animated GIF screen recorder with an easy to use interface **for Linux**.
+* [**termtosvg**](https://github.com/nbedos/termtosvg): A Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations to play in Markdown files and browsers. 
 
 ### Screenshot
 

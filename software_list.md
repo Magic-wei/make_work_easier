@@ -31,6 +31,7 @@
 - [**MkDocs**](https://www.mkdocs.org/): a fast, simple and downright gorgeous static site generator that's geared towards building project documentation, cross-platform, free.
 - [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for GitHub README.md, and for any Markdown file.
 - [**yuzhangbit/wiki_barebone**](https://github.com/yuzhangbit/wiki_barebone): for building your local wiki system.
+- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview. Many core plugins can be used to customize your own note-taking toolkit.
 
 #### Coding IDE
 
@@ -97,6 +98,7 @@
 * [**Snipaste**](https://www.snipaste.com/): Snip + Paste = Snipaste, which is a simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen. **It's not fair to consider it as only a snipping tool, actually the most powerful feature of it is to pin multiple screenshots onto the screen in groups!** You can convert text or color info in the clipboard into a floating image window. Such windows can be zoomed, rotated, flipped, made translucent, and even made click-through! If you are a programmer, a designer or whoever works much time before the computer, you will be surprised how it can help you get your work done more efficiently! **It has the free version for Windows and Mac OS**, and also a pro version as in-app purchase in Microsoft Store. Even the free version is powerful enough for everyday use. **Linux version is under developing.**
 * [**Flameshot**](https://flameshot.js.org): Powerful yet simple to use screenshot software. **It's an equivalent to Snipaste in Linux.** Download [here](https://flameshot.js.org/#/download).
 * [**Shutter**](https://shutter-project.org/): a feature-rich screenshot program **for Linux** based operating systems such as Ubuntu. There are many built-in icons and images in the Shutter editor to reduce your efforts to draw on the screenshot. Install: `sudo apt-get install shutter`.
+* [**termtosvg**](https://github.com/nbedos/termtosvg): A Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations to play in Markdown files and browsers. 
 
 #### Editing
 
@@ -125,7 +127,8 @@ There are some tools for guidance in choosing color schemes, which makes your pl
 * [**QTTabBar**](http://qttabbar.wikidot.com/): Extends Explorer by tabs and extra folder views for Windows. Free. See [official website (Chinese)](https://indiff.github.io/qttabbar/) for latest update.
 * [**WizTree**](https://wiztreefree.com/): The FASTEST Disk Space Analyser for Windows. Free.
 * [**Everything**](https://www.voidtools.com/): a desktop search utility for Windows that can rapidly find files and folders by name. Free.
-
-
-
-
+* [**qrcode**](https://github.com/sylnsfar/qrcode): An interesting Python tool to generate various kinds of QR code including common QR code, artistic QR code and animated QR code. 
+* [**Socialify**](https://github.com/wei/socialify): A pretty nice online tool to help you generate a beautiful project image and share with the world.
+* [**Upptime**](https://github.com/upptime/upptime): An open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
+* [**git-history**](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository.
+* [**tesseract.js**](https://github.com/naptha/tesseract.js): Get words in almost any language out of images or videos. 
