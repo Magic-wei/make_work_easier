@@ -39,15 +39,24 @@ For each topic shown as rectangle in the workflow, you can find some useful tool
 
 ### Markdown
 
-Markdown is one of the most popular markup language which is designed to be a simple, lightweight way to add formatting without prior HTML experience. Github itself use Markdown to format its readme files. You can also use Markdown to format your own wiki files. And it supports HTML syntax too.
+Markdown is one of the most popular markup language which is designed to be a simple, lightweight way to add formatting without prior HTML experience. Github itself use Markdown to format its readme files. You can also use Markdown to format your own wiki files. And it supports HTML syntax, LaTeX math syntax, and many other useful syntax too.
 
-- [**Typora**](https://typora.io/#): There are many Markdown editors you can find online, among them, Typora could be a special one. Typora will give you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Replace them with a real live preview feature to help you concentrate on the content itself.
-- [**StackEdit**](https://stackedit.io/): StackEdit is an in-browser markdown editor which supports different Markdown flavors such as Markdown Extra, GFM and CommonMark. It also supports LaTeX mathematical expressions, UML diagrams, emojis and even musical scores.
-- [**Marp**](https://yhatt.github.io/marp/): Marp is a cross-platform markdown presentation writer which supports rendering emoji, math, and background image. You can write your slides in markdown and export as pdf files, which is quite convenient especially when you have already had Markdown files about the topics to share. See more features on the homepage.
+**I'm currently using Typora and Obsidian as my local Markdown editors** which are both cross-platform and are available for Windows and Linux:
+
+- [**Typora**](https://typora.io/#): There are many Markdown editors you can find online, among them, Typora could be a special one. Typora will give you a seamless experience as both a reader and a writer. It removes the preview window and all other unnecessary distractions, and replace them with a real live preview feature to help you concentrate on the content itself. Currently I'm using Typora to take fast temporary notes and derive math equations almost the same way as written in TeX files but with real-time preview such that I can easily derive and move them to a TeX file like a research report or a new paper. **NOTE: if you want to use in-line LaTeX math equations, you need to check the option `File/Preferences/Markdown/Syntax Support/Inline Math`.**
+- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview, slide presentation like Marp, templates/macros settings. Many core plugins can be used to customize your own note-taking toolkit. And what you get is really a folder of Markdown files, which allow you to sync your notes anywhere and reuse them seamlessly. See the repo below for a nice template.
+- [**Magic-wei/obsidian_wiki_template**](https://github.com/Magic-wei/obsidian_wiki_template): A personal wiki or note-taking system template based on Obsidian. See details in README file to learn about features and useful settings of Obsidian. See introduction above to take a quick look into Obsidian.
+
+Also there are some Markdown tools for better repo introduction:
+
 - [**MkDocs**](https://www.mkdocs.org/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file. See [yuzhangbit/docs_template](https://github.com/yuzhangbit/docs_template) for a nice template.
 - [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for GitHub README.md, and for any Markdown file.
-- [**yuzhangbit/wiki_barebone**](https://github.com/yuzhangbit/wiki_barebone): This is a lightweight gollum wiki system which will be hosted automatically in your local computer when you start Ubuntu after the installation. You can edit the content in markdown and preview the page from the brower directly whenever you want. Build your own wiki system to accumulate your knowledge everyday.
-- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview. Many core plugins can be used to customize your own note-taking toolkit. And what you get is really a folder of Markdown files, which allow you to sync your notes anywhere and reuse them seamlessly.
+
+Markdown tools that I'm not using any more but you can still take a look:
+
+- [**StackEdit**](https://stackedit.io/): StackEdit is an in-browser markdown editor which supports different Markdown flavors such as Markdown Extra, GFM and CommonMark. It also supports LaTeX mathematical expressions, UML diagrams, emojis and even musical scores. *(Reason: I have Obsidian to build my local wiki system and it is so powerful that I don't need an in-browser Markdown editor any more.)*
+- [**Marp**](https://yhatt.github.io/marp/): Marp is a cross-platform markdown presentation writer which supports rendering emoji, math, and background image. You can write your slides in markdown and export as pdf files, which is quite convenient especially when you have already had Markdown files about the topics to share. See more features on the homepage. *(Reason: I have Obsidian to build my local wiki system and it has the all the functions as Marp does, so if I need a quick presentation in Markdown I would use Obsidian based on my wiki notes.)*
+- [**yuzhangbit/wiki_barebone**](https://github.com/yuzhangbit/wiki_barebone): This is a lightweight gollum wiki system which will be hosted automatically in your local computer when you start Ubuntu after the installation. You can edit the content in markdown and preview the page from the brower directly whenever you want. Build your own wiki system to accumulate your knowledge everyday. *(Reason: Currently I'm using Obsidian to build my local wiki system which has better experience. But this repo is still a great browser-based wiki system which I've used for 2 years before I switched to Obsidian.)*
 
 ### Coding IDE
 
@@ -62,6 +71,7 @@ Markdown is one of the most popular markup language which is designed to be a si
 * [**draw.io**](https://www.draw.io/): It is a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
 * [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor): a good website-based tool for flowcharts and diagrams in markdown. Generate links or download images (SVG or PNG format). You can start from samples of Gantt chart, pie chart, flow chart, sequence diagram, class diagram and more.
+* [**Inkscape**](https://inkscape.org/): It is a pro vector graphics editor which is cross-platform (Linux, Windows, macOS) and free.
 
 ## Tables
 
@@ -72,8 +82,8 @@ Markdown is one of the most popular markup language which is designed to be a si
 
 ### LaTeX Tools
 
-* [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTex add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTex equations into your PowerPoint presentation. Free, and open source.
-* [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
+* [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTeX add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTeX equations into your PowerPoint presentation. Free, and open source.
+* [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account supports 50 snips/month. Now Mathpix support export to MS Word format (MathType format or built-in math format). [Installation Guide](https://mathpix.com/docs/snip/linux-overview)
 * [**Online LaTeX Equation Editor (CodeCogs)**](https://www.codecogs.com/latex/eqneditor.php): This GUI-based website allows you to create your LaTeX equations from scratch even without any knowledge of LaTeX expressions. LaTeX equations can be exported as multiple image formats like SVG, PNG and PDF.
 * [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
 
@@ -86,6 +96,7 @@ Markdown is one of the most popular markup language which is designed to be a si
 ### Others
 
 * [**GENO**](http://www.geno-project.org/): A site that can automatically generate optimization solvers in Python. Enter your optimization problem in an easy-to-read modeling language on the website and get the Python codes that can solve the class of optimization problems.
+* [**Microsoft Math Solver**](https://math.microsoft.com/): This is a very interesting tool to get step-by-step solutions (not always) to your math problems including pre-algebra, algebra, trigonometry and calculus. If you're using Microsoft Edge as the default browser, you can find it in `Settings and more/More tools/Math Solver` which will open it as a sidebar tool and select area in browser to extract math problems automatically.
 
 <img src="./images/math tools.svg" width="90%" alt="math_tools">
 
@@ -135,6 +146,7 @@ Generally, visualization includes figure plotting, whereas visualization in this
 
 ## Video Editing
 
+* [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details.
 * [**FFmpeg**](https://www.ffmpeg.org/) is a complete, cross-platform solution to record, convert and stream audio and video. Typically you can use it in command lines or GUI, and many popular video editors are developed based on FFmpeg. Some usage examples are as follows:
   * Transcoding: `ffmpeg -i input.mp4 output.avi`
   * Video clipping: `ffmpeg -i input.mkv -ss 11 -to 15 out.mkv` to get a video clip from 11 second to 15 second. You can also replace `-ss 11 -to 15` with `-ss 00:00:11 -to 00:00:15` or `-ss 00:11 -to 00:15` or `-ss 00:11 -t 5` where parameter `-t` devotes time duration.
@@ -145,9 +157,14 @@ Generally, visualization includes figure plotting, whereas visualization in this
   * Remove audio from video: `ffmpeg -i input.mkv -vcodec copy -an vout.mkv`
   * Generate animated GIF: `ffmpeg -i input.mkv -ss 11 -to 15 -s 640x320 -r 15 out.gif` with paramter `-s` for frame scaling and `-r` for frame rate resetting.
   * Use FFplay to play a video or audio: `ffplay input.mkv`, press `Q` key to quit when finished.
-* [**OpenShot**](https://www.openshot.org/) is a free & open-source cross-platform video editor. See [official guide](https://www.openshot.org/user-guide/) for more details.
 
 ## Academic Writing
+
+### LaTeX Editor
+
+- [**Tex Live**](https://tug.org/texlive/acquire-netinstall.html) and [**Texstudio**](https://texstudio.org/) for local LaTeX documents writing, cross-platform (Windows, Linux, MacOS), free.
+
+### Language Tools
 
 * [**Linggle 10^12**](https://linggle.com/): This is a website where you can get advices on academic writing in English. This tool allows you to find recurring phrases following the words you type, check whether a word is needed in a phrase, decide on alternative phrases or find collocations.
 * [**ColloCaid**](http://www.collocaid.uk/): this **in-browser tool** project aims to develop a text-editing tool to help writers choose words that go well together (i.e. collocations) as needed. **Mostly you can just write on this site, or copy and paste your words to the editor and get some advices.** Now it's **free** with a sign-up. But 

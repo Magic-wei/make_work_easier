@@ -6,6 +6,8 @@
   * [Table of Contents](#table-of-contents)
   * [Coding &amp; Documentation](#coding--documentation)
     * [Markdown](#markdown)
+    * [QR Code Tools](#QR-Code-Tools)
+    * [Github Tools](#Github-Tools)
     * [Coding IDE](#coding-ide)
     * [Coding](#coding)
     * [Office Tools](#office-tools)
@@ -26,12 +28,27 @@
 #### Markdown
 
 - [**Typora**](https://typora.io/#): locally Markdown editor, cross-platform, free.
-- [**StackEdit**](https://stackedit.io/): in-browser markdown editor, cross-platform, free.
-- [**Marp**](https://yhatt.github.io/marp/): Markdown-based slides editor, cross-platform, free.
 - [**MkDocs**](https://www.mkdocs.org/): a fast, simple and downright gorgeous static site generator that's geared towards building project documentation, cross-platform, free.
 - [**github-markdown-toc**](https://github.com/Magic-wei/github-markdown-toc): A script that easily create Table of Content (TOC) for GitHub README.md, and for any Markdown file.
+- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview, slide presentation like Marp, templates/macros settings. Many core plugins can be used to customize your own note-taking toolkit. And what you get is really a folder of Markdown files, which allow you to sync your notes anywhere and reuse them seamlessly. See the repo below for a nice template.
+- [**Magic-wei/obsidian_wiki_template**](https://github.com/Magic-wei/obsidian_wiki_template): A personal wiki or note-taking system template based on Obsidian. See details in README file to learn about features and useful settings of Obsidian. See introduction above to take a quick look into Obsidian.
+
+Markdown tools that I'm not using any more but you can still take a look:
+
+- [**StackEdit**](https://stackedit.io/): in-browser markdown editor, cross-platform, free.
+- [**Marp**](https://yhatt.github.io/marp/): Markdown-based slides editor, cross-platform, free.
 - [**yuzhangbit/wiki_barebone**](https://github.com/yuzhangbit/wiki_barebone): for building your local wiki system.
-- [**Obsidian**](https://obsidian.md/): It is a powerful note-taking system that works on top of a local folder of plain text Markdown files. Free for personal use. Obsidian works pretty well with connections between notes with graph view and backlinks that can help you visualize and figure out those connections and locate the content you want very quickly. I really like the GUI, the smooth reaction, page preview. Many core plugins can be used to customize your own note-taking toolkit.
+
+#### QR Code Tools
+
+* [**QRcode.show**](https://qrcode.show/): Generate & show QR Code online in browser.
+* [**qrcode**](https://github.com/sylnsfar/qrcode): An interesting Python tool to generate various kinds of QR code including common QR code, artistic QR code and animated QR code. 
+
+#### Github Tools
+
+- [**Socialify**](https://github.com/wei/socialify): A pretty nice online tool to help you generate a beautiful project image and share with the world.
+- [**Upptime**](https://github.com/upptime/upptime): An open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
+- [**git-history**](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository.
 
 #### Coding IDE
 
@@ -49,14 +66,14 @@
 
 - [**Microsoft To Do**](https://todo.microsoft.com/): for task management, Cross-platform (web-based, Windows and mobile apps), free
 - [**WPS**](https://www.wps.cn/): for MS WORD-like documents, cross-platform (support Linux), free
-- [**Tex Live**](https://tug.org/texlive/acquire-netinstall.html) and [**Texstudio**](https://texstudio.org/) for local LaTex documents writing, cross-platform (Windows, Linux, MacOS), free.
+- [**Tex Live**](https://tug.org/texlive/acquire-netinstall.html) and [**Texstudio**](https://texstudio.org/) for local LaTeX documents writing, cross-platform (Windows, Linux, MacOS), free.
 
 #### Mathematics Tools
 
-* [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTex add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTex equations into your PowerPoint presentation. Free, and open source.
+* [**IguanaTex**](http://www.jonathanleroux.org/software/iguanatex/): A free LaTeX add-in for Microsoft PowerPoint on Windows. It allows you to insert LaTeX equations into your PowerPoint presentation. Free, and open source.
 * [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
 * [**Online LaTeX Equation Editor (CodeCogs)**](https://www.codecogs.com/latex/eqneditor.php): This GUI-based website allows you to create your LaTeX equations from scratch even without any knowledge of LaTeX expressions. LaTeX equations can be exported as multiple image formats like SVG, PNG and PDF.
-* [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
+* [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTeX or MathML expressions. You can use the GUI on this site to generate your math equations fast.
 * [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
 * [**SymPy**](https://www.sympy.org/en/index.html): It is a Python library for symbolic mathematics. Use the website [SymPy Live](https://live.sympy.org/) to do symbolic mathematics online. And [SymPy Gamma](https://www.sympygamma.com/) is a SymPy version of WolframAlpha.
 * [**Matlab Symbolic Math Toolbox**](https://www.mathworks.com/products/symbolic.html): It provides functions for solving, plotting, and manipulating symbolic math equations in Matlab.
@@ -127,8 +144,4 @@ There are some tools for guidance in choosing color schemes, which makes your pl
 * [**QTTabBar**](http://qttabbar.wikidot.com/): Extends Explorer by tabs and extra folder views for Windows. Free. See [official website (Chinese)](https://indiff.github.io/qttabbar/) for latest update.
 * [**WizTree**](https://wiztreefree.com/): The FASTEST Disk Space Analyser for Windows. Free.
 * [**Everything**](https://www.voidtools.com/): a desktop search utility for Windows that can rapidly find files and folders by name. Free.
-* [**qrcode**](https://github.com/sylnsfar/qrcode): An interesting Python tool to generate various kinds of QR code including common QR code, artistic QR code and animated QR code. 
-* [**Socialify**](https://github.com/wei/socialify): A pretty nice online tool to help you generate a beautiful project image and share with the world.
-* [**Upptime**](https://github.com/upptime/upptime): An open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
-* [**git-history**](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository.
 * [**tesseract.js**](https://github.com/naptha/tesseract.js): Get words in almost any language out of images or videos. 
