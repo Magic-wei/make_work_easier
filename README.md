@@ -121,6 +121,9 @@ Generally, visualization includes figure plotting, whereas visualization in this
 
 Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files. We focus on ROS-related tools since ROS is a popular option for robotics research.
 
+- [**PlotJuggler**](https://www.plotjuggler.io/): Great time series visualization tool that supports ROS/ROS2 pretty well. It has many useful features that can give you great experiences with fast and elegant visualization. For example, you can drag & drop to plot, select topics to load, real-time streaming, apply functions and transformations to time series data, re-publish messages and visualize them in RViz or other visualization tools, save and load layout configs.
+- [**Magic-wei/DearBagPlayer**](https://github.com/Magic-wei/DearBagPlayer): This is a flexible rosbag player based on Dear PyGui in Python that I am still developing. Similar experiences to PlotJuggler (limited features right now since it is still under developing) but it supports loading multiple bag files at the same time which makes it good at comparing performance over multiple episodes. If you are interested in this project, take a look at it!
+
 - [**ros_viz_tools**](https://github.com/Magic-wei/ros_viz_tools): This is a visualization tool that I developed for easier [Rviz Marker](http://wiki.ros.org/rviz/DisplayTypes/Marker) plotting, which provides several predefined functions to clean up our codes when using Rviz Marker. See examples in README for a quick start.
 
 ## Screenshot & Video Recording
@@ -163,6 +166,7 @@ Generally, visualization includes figure plotting, whereas visualization in this
 ### LaTeX Editor
 
 - [**Tex Live**](https://tug.org/texlive/acquire-netinstall.html) and [**Texstudio**](https://texstudio.org/) for local LaTeX documents writing, cross-platform (Windows, Linux, MacOS), free.
+- [**Overleaf**](https://www.overleaf.com/): This is an online LaTeX editor that has all the packages and templates you need to write a paper, a report, a CV and all kinds of LaTeX work. Cross-platform, sync with Dropbox or Github. Its collaborative writing feature allows all the collaborators to edit, comment and track changes in real time (6 collaborators per project and all the premium features are available for student plans).
 
 ### Language Tools
 
