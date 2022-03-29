@@ -68,7 +68,7 @@ Markdown tools that I'm not using any more but you can still take a look:
 
 ## Diagrams & Flowcharts
 
-* [**draw.io**](https://www.draw.io/): It is a free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. You can use draw.io with your favourite cloud sharing service (e.g. Google Drive and OneDrive) or on your own device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
+* [**draw.io**](https://www.draw.io/): It is a free, cross-platform diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. Both [desktop](https://github.com/jgraph/drawio-desktop/releases) (Windows, Linux, macOS) and [website](https://app.diagrams.net/) apps are available now. You can use draw.io with your favourite cloud sharing service (e.g. GitHub, Google Drive and OneDrive) or with your local device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
 * [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor): a good website-based tool for flowcharts and diagrams in markdown. Generate links or download images (SVG or PNG format). You can start from samples of Gantt chart, pie chart, flow chart, sequence diagram, class diagram and more.
 * [**Inkscape**](https://inkscape.org/): It is a pro vector graphics editor which is cross-platform (Linux, Windows, macOS) and free.
