@@ -66,6 +66,19 @@ Markdown tools that I'm not using any more but you can still take a look:
 - [**Sublime Text**](https://www.sublimetext.com/): It is a popular text editor for code, markup and prose which is free and cross-platform (Mac, Windows and Linux). If you are working on a project involving multiple programming and markup languages simultaneously, Sublime Text is probably the best choice to read codes and text and make some small changes. Use [**Sublime Merge**](https://www.sublimemerge.com/) as a Git client along with Sublime Text.
 - [**MATLAB Online**](https://www.mathworks.com/products/matlab-online.html): Use MATLAB through your web browser with the latest version, get 5 GB cloud storage in Matlab Drive online, work with your MATLAB files from anywhere, and share them with others. MATLAB Online is available with select licenses, many universities provide campus-wide licenses for their students, double check [here](https://www.mathworks.com/academia/tah-support-program/eligibility.html) with the official name of your university and your official university email address, you will receive an email that tells you if your university has an active MATLAB campus-wide license. 
 
+### Coding Standards
+
+A coding standard gives a uniform appearance to the codes written by different developers. While different teams/groups/organizations may have their own coding standards, it is always a good way to start with some popular coding standards for specific communities (e.g. ROS coding standards for robotics community) to get a better sense of coding.
+
+C++:
+
+- [**ROS C++ Style Guide**](http://wiki.ros.org/CppStyleGuide)
+- [**Google C++ Style Guide**](https://google.github.io/styleguide/cppguide.html)
+
+Python:
+
+- [**ROS Python Style Guide**](http://wiki.ros.org/PyStyleGuide)
+
 ## Diagrams & Flowcharts
 
 * [**draw.io**](https://www.draw.io/): It is a free, cross-platform diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. Both [desktop](https://github.com/jgraph/drawio-desktop/releases) (Windows, Linux, macOS) and [website](https://app.diagrams.net/) apps are available now. You can use draw.io with your favourite cloud sharing service (e.g. GitHub, Google Drive and OneDrive) or with your local device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
@@ -90,13 +103,14 @@ Markdown tools that I'm not using any more but you can still take a look:
 ### Derivative Tools
 
 * [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
-* [**SymPy**](https://www.sympy.org/en/index.html): It is a Python library for symbolic mathematics. Use the website [SymPy Live](https://live.sympy.org/) to do symbolic mathematics online. And [SymPy Gamma](https://www.sympygamma.com/) is a SymPy version of WolframAlpha.
+* [**SymPy**](https://www.sympy.org/en/index.html): It is a Python library for symbolic mathematics. Use the website [SymPy Live](https://live.sympy.org/) to do symbolic mathematics online. And [SymPy Gamma](https://www.sympygamma.com/) is a SymPy version of **WolframAlpha** (see below in the next section) in mathematics.
 * [**Matlab Symbolic Math Toolbox**](https://www.mathworks.com/products/symbolic.html): It provides functions for solving, plotting, and manipulating symbolic math equations in Matlab.
 
 ### Others
 
 * [**GENO**](http://www.geno-project.org/): A site that can automatically generate optimization solvers in Python. Enter your optimization problem in an easy-to-read modeling language on the website and get the Python codes that can solve the class of optimization problems.
 * [**Microsoft Math Solver**](https://math.microsoft.com/): This is a very interesting tool to get step-by-step solutions (not always) to your math problems including pre-algebra, algebra, trigonometry and calculus. If you're using Microsoft Edge as the default browser, you can find it in `Settings and more/More tools/Math Solver` which will open it as a sidebar tool and select area in browser to extract math problems automatically.
+* [**WolframAlpha**](https://www.wolframalpha.com/): This is a great website to compute expert-level answers using Wolfram’s breakthrough algorithms, knowledge base and AI technology, which includes topics in mathematics, science & technology (e.g. engineering and physics), society & culture and everyday life.
 
 <img src="./images/math tools.svg" width="90%" alt="math_tools">
 
