@@ -41,8 +41,8 @@ Markdown tools that I'm not using any more but you can still take a look:
 
 #### QR Code Tools
 
-* [**QRcode.show**](https://qrcode.show/): Generate & show QR Code online in browser.
-* [**qrcode**](https://github.com/sylnsfar/qrcode): An interesting Python tool to generate various kinds of QR code including common QR code, artistic QR code and animated QR code. 
+- [**QRcode.show**](https://qrcode.show/): Free QR code generator as a service, supporting generation on the website or in CLI locally (`curl qrcode.show -d https://example.com` for example, explore more usages on this web page).
+- [**qrcode**](https://github.com/sylnsfar/qrcode): An interesting Python tool to generate various kinds of QR code including common QR code, artistic QR code and animated QR code. Support both CLI and Python-code ways.
 
 #### Github Tools
 
@@ -74,6 +74,7 @@ Markdown tools that I'm not using any more but you can still take a look:
 * [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account can support 50 snips/month. [installation guide](https://mathpix.com/docs/snip/linux-overview)
 * [**Online LaTeX Equation Editor (CodeCogs)**](https://www.codecogs.com/latex/eqneditor.php): This GUI-based website allows you to create your LaTeX equations from scratch even without any knowledge of LaTeX expressions. LaTeX equations can be exported as multiple image formats like SVG, PNG and PDF.
 * [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTeX or MathML expressions. You can use the GUI on this site to generate your math equations fast.
+* [**LaTeX Live (LaTeX公式编辑器) - in Chinese**](https://latexlive.com/): similar to Online LaTeX Equation Editor just introduced above, but this website is in Chinese.
 * [**Matrix Calculus**](http://www.matrixcalculus.org/): A site that computes vector and matrix derivatives (matrix calculus).
 * [**SymPy**](https://www.sympy.org/en/index.html): It is a Python library for symbolic mathematics. Use the website [SymPy Live](https://live.sympy.org/) to do symbolic mathematics online. And [SymPy Gamma](https://www.sympygamma.com/) is a SymPy version of WolframAlpha.
 * [**Matlab Symbolic Math Toolbox**](https://www.mathworks.com/products/symbolic.html): It provides functions for solving, plotting, and manipulating symbolic math equations in Matlab.
@@ -101,7 +102,7 @@ Markdown tools that I'm not using any more but you can still take a look:
 * [**Linggle 10^12**](https://linggle.com/): This is a website where you can get advices on academic writing in English. This tool allows you to find recurring phrases following the words you type, check whether a word is needed in a phrase, decide on alternative phrases or find collocations.
 * [**ColloCaid**](http://www.collocaid.uk/): this **in-browser tool** project aims to develop a text-editing tool to help writers choose words that go well together (i.e. collocations) as needed. **Mostly you can just write on this site, or copy and paste your words to the editor and get some advices.** Now it's **free** with a sign-up. But 
 * [**Academic Phrasebank**](http://www.phrasebank.manchester.ac.uk/): This website is a general resource for academic writers. It aims to provide you with examples of some of the phraseological 'nuts and bolts' of writing organized according to the main sections of a research paper or dissertation. You can also find links to an enhanced and expanded version in PDF or Kindle format on this website.
-* [**musi.ai**](https://musi.ai/): musi.ai is the world’s first ever English grammar and fluency editor powered by artificial intelligence, created by a group of scientists from UPenn, CMU, UNSW and UC Berkeley. **You can use it as a grammar checker before any further changes to your writing.** Better experience compared to a free [Grammarly](https://www.grammarly.com/) account. **However, you need to be careful about the changes it makes, such tool is just a machine anyway and sometimes it might misunderstand what you want to say.**
+* [**Grammarly**](https://www.grammarly.com/): Get good writing experience in browsers with Grammarly’s AI-powered writing assistant. Free account is good enough for daily usage. **Note that you need to be careful about the changes it makes, such tool is just a machine anyway and sometimes it might misunderstand what you want to say.**
 * [**Turnitin**](https://www.turnitin.com/): After you finish your manuscript, it is time to check plagiarism. Turnitin is the most widely used plagiarism checker around the world.
 
 ## Screenshot, Video Recording and Editing

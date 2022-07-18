@@ -25,7 +25,6 @@ For each topic shown as rectangle in the workflow, you can find some useful tool
   <a href="#academic-writing">Academic Writing</a>
 </p>
 
-
 <p align="center">
   <b>--- For more information ---</b><br>
   <a href="./software_list.md">Longer Software  List</a> •
@@ -99,6 +98,7 @@ Python:
 * [**Mathpix**](https://mathpix.com/ocr): Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot, cross-platform (iOS, Android, macOS, Windows, Linux). Free account supports 50 snips/month. Now Mathpix support export to MS Word format (MathType format or built-in math format). [Installation Guide](https://mathpix.com/docs/snip/linux-overview)
 * [**Online LaTeX Equation Editor (CodeCogs)**](https://www.codecogs.com/latex/eqneditor.php): This GUI-based website allows you to create your LaTeX equations from scratch even without any knowledge of LaTeX expressions. LaTeX equations can be exported as multiple image formats like SVG, PNG and PDF.
 * [**MathType Demo**](http://www.wiris.com/editor/demo/en/developers): This site can be used to convert MathType equations to LaTex or MathML expressions. You can use the GUI on this site to generate your math equations fast.
+* [**LaTeX Live (LaTeX公式编辑器) - in Chinese**](https://latexlive.com/): similar to Online LaTeX Equation Editor just introduced above, but this website is in Chinese.
 
 ### Derivative Tools
 
@@ -193,8 +193,6 @@ Generally, visualization includes figure plotting, whereas visualization in this
 <img src="./images/Linggle.png" width="90%" alt="Linggle">
 
 <img src="./images/Collocaid.png" width="90%" alt="Collocaid">
-
-
 
 ## TODO
 
