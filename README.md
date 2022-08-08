@@ -22,8 +22,10 @@ For each topic shown as rectangle in the workflow, you can find some useful tool
   <a href="#visualization">Visualization</a> |
   <a href="#screenshot--video-recording">Screenshot & Video Recording</a> |
   <a href="#video-editing">Video Editing</a> |
+  <a href="#paper-reading--management">Paper Reading & Management</a> | 
   <a href="#academic-writing">Academic Writing</a>
 </p>
+
 
 <p align="center">
   <b>--- For more information ---</b><br>
@@ -174,6 +176,16 @@ Generally, visualization includes figure plotting, whereas visualization in this
   * Remove audio from video: `ffmpeg -i input.mkv -vcodec copy -an vout.mkv`
   * Generate animated GIF: `ffmpeg -i input.mkv -ss 11 -to 15 -s 640x320 -r 15 out.gif` with paramter `-s` for frame scaling and `-r` for frame rate resetting.
   * Use FFplay to play a video or audio: `ffplay input.mkv`, press `Q` key to quit when finished.
+
+## Paper Reading & Management
+
+### Reference Manager
+
+- [**Mendeley Desktop**](https://www.mendeley.com/reference-management/mendeley-desktop): cross-platform (Windows, Linux, macOS), sync in the cloud.
+
+### RSS
+
+- [**FeedDemon**](http://feeddemon.com/): a great RSS reader for Windows, with an easy-to-use interface that makes it a snap to stay informed with the latest news and information. Even though it was discontinued in June 2013, we can still download it for free.
 
 ## Academic Writing
 
