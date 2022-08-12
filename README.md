@@ -128,19 +128,38 @@ Typically data can be stored in file formats like csv, txt, rosbag, xlsx etc. Th
 
 ## Figure Plotting
 
-Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files.
+Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which visualizes data at runtime (or from files) to help us understand and analyze the situation, and figure plotting focus on drawing beautiful figures using existed data from files.
 
-- [**easy_plot**](https://github.com/Magic-wei/easy_plot): This repository gives examples of common plotting configurations in Matlab and Python.
-- [**ColorBrewer2**](https://colorbrewer2.org/): This is a great tool for choosing color scheme we use in figures, which makes your plots more beautiful. For an intuitive feeling, see this [comparison](https://github.com/Magic-wei/easy_plot#how-to-choose-color) between figure using built-in color and one using color chosen from ColorBrewer2.
+**Python:**
+
+- [**Matplotlib Home**](https://matplotlib.org/): a good place to start with figure plotting, the official documents look good right now. Go check [Examples](https://matplotlib.org/stable/plot_types/index.html) to find specific demos that meet your needs. Explore [Documentation](https://matplotlib.org/stable/index.html) for a deeper understanding and advanced usage. In general, Matplotlib handles 2D plotting pretty well and perhaps some simple 3D plotting (but not good at 3D plotting).
+  - [**Seaborn**](https://seaborn.pydata.org/): It is a Python data visualization library based on **Matplotlib**, which provides a high-level interface for drawing attractive and informative statistical graphics.
+  - Find more [**third-party and user-contributed packages**](https://matplotlib.org/mpl-third-party/) based on Matplotlib.
+- [**rougier/scientific-visualization-book**](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using Python and Matplotlib.
+- [**Python & OpenGL For Scientific Visualization**](https://www.labri.fr/perso/nrougier/python-opengl/): The goal of this book is to explain several techniques dedicated to scientific visualisation such as isolines, markers, colormaps, arbitrary transformations but there are actually many more techniques to be discovered and explained in this open-access book.
+- [**matplotlib/cheatsheets**](https://github.com/matplotlib/cheatsheets): Official Matplotlib cheat sheets.
+
+**Color Schemes:**
+
+- [**Choosing Colormaps in Matplotlib**](https://matplotlib.org/stable/tutorials/colors/colormaps.html): explore a number of built-in colormaps for Matplotlib.
+- [**Scheme Color**](https://www.schemecolor.com/): Download, generate or create color schemes.
+- [**Color-hex**](https://www.color-hex.com/color-palettes/popular.php): get some popular color schemes. You can also get detailed information about one color on this site.
+- [**ColorBrewer2**](https://colorbrewer2.org/): Select color schemes for maps. Easy to export.
 
 ## Visualization
 
-Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data from running nodes and help us understand the situation, and figure plotting refers to draw beautiful figures using existed data from files. We focus on ROS-related tools since ROS is a popular option for robotics research.
+Generally, visualization includes figure plotting, whereas visualization in this repository refers to real-time visualization which collects data at runtime (or from files) to help us understand and analyze the situation, and figure plotting refers to draw beautiful figures using existed data from files. We focus on ROS-related tools since ROS is a popular option for robotics research.
+
+**ROS Bag Applications:**
 
 - [**PlotJuggler**](https://www.plotjuggler.io/): Great time series visualization tool that supports ROS/ROS2 pretty well. It has many useful features that can give you great experiences with fast and elegant visualization. For example, you can drag & drop to plot, select topics to load, real-time streaming, apply functions and transformations to time series data, re-publish messages and visualize them in RViz or other visualization tools, save and load layout configs.
 - [**Magic-wei/DearBagPlayer**](https://github.com/Magic-wei/DearBagPlayer): This is a flexible rosbag player based on Dear PyGui in Python that I am still developing. Similar experiences to PlotJuggler (limited features right now since it is still under developing) but it supports loading multiple bag files at the same time which makes it good at comparing performance over multiple episodes. If you are interested in this project, take a look at it!
 
-- [**Magic-wei/ros_viz_tools**](https://github.com/Magic-wei/ros_viz_tools): This is a visualization tool that I developed for easier [Rviz Marker](http://wiki.ros.org/rviz/DisplayTypes/Marker) plotting, which provides several predefined functions to clean up our codes when using Rviz Marker. See examples in README for a quick start.
+**Code libraries:**
+
+- [**Matplotlib Animation**](https://matplotlib.org/stable/api/animation_api.html) (Python): Yes Matplotlib can do animation work as well. See [examples](https://matplotlib.org/stable/api/animation_api.html#examples) to learn what it can do. Even though speed might be a problem for big dataset, it is still good to try it for simple real-time visualization.
+- [**PyQtGraph**](https://www.pyqtgraph.org/) (Python): Scientific Graphics and GUI Library for Python built on PyQt / PySide and NumPy. It is intended for use in mathematics / scientific / engineering applications which needs **fast display** to meet **real-time** requirements.
+- [**Magic-wei/ros_viz_tools**](https://github.com/Magic-wei/ros_viz_tools) (C++): This is a visualization tool that I developed for easier [Rviz Marker](http://wiki.ros.org/rviz/DisplayTypes/Marker) plotting, which provides several predefined functions to clean up our codes when using Rviz Marker. See examples in README for a quick start.
 
 ## Screenshot & Video Recording
 
