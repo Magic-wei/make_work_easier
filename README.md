@@ -113,6 +113,9 @@ Python:
 * [**GENO**](http://www.geno-project.org/): A site that can automatically generate optimization solvers in Python. Enter your optimization problem in an easy-to-read modeling language on the website and get the Python codes that can solve the class of optimization problems.
 * [**Microsoft Math Solver**](https://math.microsoft.com/): This is a very interesting tool to get step-by-step solutions (not always) to your math problems including pre-algebra, algebra, trigonometry and calculus. If you're using Microsoft Edge as the default browser, you can find it in `Settings and more/More tools/Math Solver` which will open it as a sidebar tool and select area in browser to extract math problems automatically.
 * [**WolframAlpha**](https://www.wolframalpha.com/): This is a great website to compute expert-level answers using Wolfram’s breakthrough algorithms, knowledge base and AI technology, which includes topics in mathematics, science & technology (e.g. engineering and physics), society & culture and everyday life.
+* [**GeoGebra Calculator Suite**](https://www.geogebra.org/calculator): a good place to explore calculus, 2D and 3D geometry and probability distributions. Learn how to use it from [tutorials](https://www.geogebra.org/a/14).
+* [**Desmos Graphing Calculator**](https://www.desmos.com/calculator): A good place to explore 2D geometry.
+* [**Symbolab Math Solver**](https://www.symbolab.com/): Step by Step calculator, support graphing, geometry, calculators for mathematical and physical equations.
 
 <img src="./images/math tools.svg" width="90%" alt="math_tools">
 
@@ -198,9 +201,26 @@ Generally, visualization includes figure plotting, whereas visualization in this
 
 ## Paper Reading & Management
 
+### Paper Reading
+
+- [**Explainpaper**](https://www.explainpaper.com/): Upload a paper, highlight confusing text, get an explanation.
+
+### Paper Searching
+
+- [**Google Scholar**](https://scholar.google.com/): the very first place to get started with searching papers. Some tips:
+  - Use advanced search operators, such as "AND", "OR", and "NOT" to refine your search and get more relevant results.
+  - Use quotation marks ("model predictive control" for example) to search for an exact phrase.
+  - Use advanced search options to narrow your results. Filter your results by date, author, and source type (such as articles or conference papers).
+  - Click on `Related articles` to find similar articles to the ones you have already found.
+  - Click on `Cited by xx` to find articles that have cited the articles you have already found.
+  - Save articles and use "My Library" to organize your references.
+  - Follow someone's Google Scholar profile to stay up-to-date on his/her research and publications.
+- [**Papers With Code**](https://paperswithcode.com/): Find latest ML papers that come with code by trending, state-of-the-art, datasets or methods.
+
 ### Reference Manager
 
 - [**Mendeley Desktop**](https://www.mendeley.com/reference-management/mendeley-desktop): cross-platform (Windows, Linux, macOS), sync in the cloud.
+- [**Quillbot's Citation Generator**](https://quillbot.com/citation-generator): Easily create APA, MLA, Chicago (and other) style full and in-text citations in a snap. This free Citation Generator is a fast, reliable way to make citations for your essays, presentations, and other projects.
 
 ### RSS
 
@@ -219,6 +239,8 @@ Generally, visualization includes figure plotting, whereas visualization in this
 * [**ColloCaid**](http://www.collocaid.uk/): this **in-browser tool** project aims to develop a text-editing tool to help writers choose words that go well together (i.e. collocations) as needed. **Mostly you can just write on this site, or copy and paste your words to the editor and get some advices.** Now it's **free** with a sign-up. But 
 * [**Academic Phrasebank**](http://www.phrasebank.manchester.ac.uk/): This website is a general resource for academic writers. It aims to provide you with examples of some of the phraseological 'nuts and bolts' of writing organized according to the main sections of a research paper or dissertation. You can also find links to an enhanced and expanded version in PDF or Kindle format on this website.
 * [**Grammarly**](https://www.grammarly.com/): Get good writing experience in browsers with Grammarly’s AI-powered writing assistant. Free account is good enough for daily usage. **Note that you need to be careful about the changes it makes, such tool is just a machine anyway and sometimes it might misunderstand what you want to say.**
+* [**DeepL**](https://www.deepl.com/translator): It is a language translation tool that uses advanced neural network algorithms to provide high-quality translations between different languages.
+- [**Quillbot**](https://quillbot.com/): QuillBot's AI-powered paraphrasing tool will enhance your writing. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways, which will improve your fluency while also ensuring you have the appropriate vocabulary, tone, and style for any occasion. Simply enter your text into the input box, and Quillbot will work with you to create the best paraphrase. You can explore more useful features of Quillbot include **Grammar Checker**, **Summarizer** and **Citation Generator**.
 * [**Turnitin**](https://www.turnitin.com/): After you finish your manuscript, it is time to check plagiarism. Turnitin is the most widely used plagiarism checker around the world.
 
 <img src="./images/Linggle.png" width="90%" alt="Linggle">
