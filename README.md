@@ -82,7 +82,7 @@ Python:
 
 ## Diagrams & Flowcharts
 
-* [**draw.io**](https://www.draw.io/): It is a free, cross-platform diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. Both [desktop](https://github.com/jgraph/drawio-desktop/releases) (Windows, Linux, macOS) and [website](https://app.diagrams.net/) apps are available now. You can use draw.io with your favourite cloud sharing service (e.g. GitHub, Google Drive and OneDrive) or with your local device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
+* [**draw.io**](https://app.diagrams.net/): It is a free, cross-platform diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. Both [desktop](https://github.com/jgraph/drawio-desktop/releases) (Windows, Linux, macOS) and [website](https://app.diagrams.net/) apps are available now. You can use draw.io with your favourite cloud sharing service (e.g. GitHub, Google Drive and OneDrive) or with your local device to synchronize your work. **The SVG images in this RAEDME file is drawn with draw.io**.
 * [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor): a good website-based tool for flowcharts and diagrams in markdown. Generate links or download images (SVG or PNG format). You can start from samples of Gantt chart, pie chart, flow chart, sequence diagram, class diagram and more.
 * [**Inkscape**](https://inkscape.org/): It is a pro vector graphics editor which is cross-platform (Linux, Windows, macOS) and free.
@@ -90,7 +90,7 @@ Python:
 ## Tables
 
 * [**Tables Generator**](https://www.tablesgenerator.com/): It is a website-based tool for fast LaTeX, HTML or Markdown tables generation. You can simply copy/paste table data from Excel, a text document, a Markdown code or even a website, or import CSV file or LaTeX code directly. Easy layout configurations.
-* [**OpenPyXL**](https://openpyxl.readthedocs.io/en/stable/): It is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. Having investigated XlsxWriter, xlrd/xlwt, xlwings and OpenPyXL, and OpenPyXL is the best Python package to work with Excel files from my experience. But ff you are merely working on structured data analysis and have no need of advanced modification on worksheets and cells , try [Pandas](https://pandas.pydata.org/) first.
+* [**OpenPyXL**](https://openpyxl.readthedocs.io/en/stable/): It is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. Having investigated XlsxWriter, xlrd/xlwt, xlwings and OpenPyXL, and OpenPyXL is the best Python package to work with Excel files from my experience. But if you are merely working on structured data analysis and have no need of advanced modification on worksheets and cells , try [Pandas](https://pandas.pydata.org/) first.
 
 ## Math Tools
 
