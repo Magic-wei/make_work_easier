@@ -86,6 +86,7 @@ Python:
 * [**Lucidchart**](https://www.lucidchart.com/): another professional online flowcharts software. It can be used  for free under certain restrictions with limited space.
 * [**mermaid-live-editor**](https://mermaidjs.github.io/mermaid-live-editor): a good website-based tool for flowcharts and diagrams in markdown. Generate links or download images (SVG or PNG format). You can start from samples of Gantt chart, pie chart, flow chart, sequence diagram, class diagram and more.
 * [**Inkscape**](https://inkscape.org/): It is a pro vector graphics editor which is cross-platform (Linux, Windows, macOS) and free.
+* [**Excalidraw**](https://excalidraw.com/): it is a free virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. You can start live collaboration session by sharing private room link to other people. Excalidraw can be augmented by adding elements from [libraries](https://libraries.excalidraw.com/). You can also save your graphs to personal libraries to use later.
 
 ## Tables
 
@@ -203,7 +204,7 @@ Generally, visualization includes figure plotting, whereas visualization in this
 
 ### Paper Reading
 
-- [**Explainpaper**](https://www.explainpaper.com/): Upload a paper, highlight confusing text, get an explanation.
+- [**Explainpaper**](https://www.explainpaper.com/): Upload a paper, highlight confusing text, get an explanation. You can also ask more questions about the highlighted text or about the paper itself. Powered by GPT-3.
 
 ### Paper Searching
 
