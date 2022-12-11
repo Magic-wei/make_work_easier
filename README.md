@@ -79,6 +79,7 @@ C++:
 Python:
 
 - [**ROS Python Style Guide**](http://wiki.ros.org/PyStyleGuide)
+- [**PEP 8 - The Style Guide for Python Code**](https://pep8.org/)
 
 ## Diagrams & Flowcharts
 
@@ -217,6 +218,8 @@ Generally, visualization includes figure plotting, whereas visualization in this
   - Save articles and use "My Library" to organize your references.
   - Follow someone's Google Scholar profile to stay up-to-date on his/her research and publications.
 - [**Papers With Code**](https://paperswithcode.com/): Find latest ML papers that come with code by trending, state-of-the-art, datasets or methods.
+- [**Paper Digest**](https://www.paperdigest.org/): Knowledge graph & natural language processing platform tailored for technology domain. Explore tools like **Daily Paper Digest**, **Conference Digest**, **Topic Tracking**, **Literature Review** and more for free.
+- [**Connected Papers**](https://www.connectedpapers.com/): Explore connected papers in a visual graph. This is is a great tool to help you find and explore papers relevant to your field of work. Its database is connected to the [Semantic Scholar Paper Corpus](https://www.semanticscholar.org/paper/09e3cf5704bcb16e6657f6ceed70e93373a54618). Free account supports 5 graphs/month and academic account (that cost $3/month) support unlimited graphs.
 
 ### Reference Manager
 
@@ -241,7 +244,7 @@ Generally, visualization includes figure plotting, whereas visualization in this
 * [**Academic Phrasebank**](http://www.phrasebank.manchester.ac.uk/): This website is a general resource for academic writers. It aims to provide you with examples of some of the phraseological 'nuts and bolts' of writing organized according to the main sections of a research paper or dissertation. You can also find links to an enhanced and expanded version in PDF or Kindle format on this website.
 * [**Grammarly**](https://www.grammarly.com/): Get good writing experience in browsers with Grammarly’s AI-powered writing assistant. Free account is good enough for daily usage. **Note that you need to be careful about the changes it makes, such tool is just a machine anyway and sometimes it might misunderstand what you want to say.**
 * [**DeepL**](https://www.deepl.com/translator): It is a language translation tool that uses advanced neural network algorithms to provide high-quality translations between different languages.
-- [**Quillbot**](https://quillbot.com/): QuillBot's AI-powered paraphrasing tool will enhance your writing. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways, which will improve your fluency while also ensuring you have the appropriate vocabulary, tone, and style for any occasion. Simply enter your text into the input box, and Quillbot will work with you to create the best paraphrase. You can explore more useful features of Quillbot include **Grammar Checker**, **Summarizer** and **Citation Generator**.
+- [**Quillbot**](https://quillbot.com/): Enhance your writing with QuillBot's AI-powered paraphrasing tool. Simply enter your text into the input box, and Quillbot will work with you to create the best paraphrase. The two free modes is good enough for daily usage. Also, It is worth exploring more useful features of Quillbot including **Grammar Checker**, **Summarizer** and **Citation Generator**.
 * [**Turnitin**](https://www.turnitin.com/): After you finish your manuscript, it is time to check plagiarism. Turnitin is the most widely used plagiarism checker around the world.
 
 <img src="./images/Linggle.png" width="90%" alt="Linggle">
