@@ -220,6 +220,7 @@ Generally, visualization includes figure plotting, whereas visualization in this
 - [**Papers With Code**](https://paperswithcode.com/): Find latest ML papers that come with code by trending, state-of-the-art, datasets or methods.
 - [**Paper Digest**](https://www.paperdigest.org/): Knowledge graph & natural language processing platform tailored for technology domain. Explore tools like **Daily Paper Digest**, **Conference Digest**, **Topic Tracking**, **Literature Review** and more for free.
 - [**Connected Papers**](https://www.connectedpapers.com/): Explore connected papers in a visual graph. This is is a great tool to help you find and explore papers relevant to your field of work. Its database is connected to the [Semantic Scholar Paper Corpus](https://www.semanticscholar.org/paper/09e3cf5704bcb16e6657f6ceed70e93373a54618). Free account supports 5 graphs/month and academic account (that cost $3/month) support unlimited graphs.
+- [**SlideLive Library**](https://slideslive.com/library): this website stores talks of conferences like NeurIPS, ICLR and ICML by recording high quality video synchronized with slides. You can easily sync video to slides and vice versa. A good place to search and get started with latest work.
 
 ### Reference Manager
 
